@@ -1,0 +1,14 @@
+build
+runs
+images
+assets/MCB/dataset_org_norm
+.ipynb_checkpoints
+*.egg-info/
+*.pkl
+*.pyc
+*.swp
+*.h5
+*.png
+*.gif
+*.tar
+*.bkup

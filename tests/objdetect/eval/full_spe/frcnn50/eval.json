@@ -1,0 +1,7 @@
+{
+    "num_tp": 8210,
+    "num_total_pred": 14297,
+    "num_total_gt": 10867,
+    "precision": 0.5742463453871441,
+    "recall": 0.7554982975982332
+}

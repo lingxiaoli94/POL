@@ -1,0 +1,3347 @@
+dataset_org_norm/test/Impeller/00027694.obj
+dataset_org_norm/test/Impeller/00027676.obj
+dataset_org_norm/test/Impeller/00027719.obj
+dataset_org_norm/test/Grooved pins/00025099.obj
+dataset_org_norm/test/Grooved pins/00024640.obj
+dataset_org_norm/test/Grooved pins/00024062.obj
+dataset_org_norm/test/Grooved pins/00023786.obj
+dataset_org_norm/test/Grooved pins/00025598.obj
+dataset_org_norm/test/Grooved pins/00024782.obj
+dataset_org_norm/test/Grooved pins/00024214.obj
+dataset_org_norm/test/Grooved pins/00025648.obj
+dataset_org_norm/test/Grooved pins/00025524.obj
+dataset_org_norm/test/Grooved pins/00024064.obj
+dataset_org_norm/test/Grooved pins/00025361.obj
+dataset_org_norm/test/Grooved pins/00024169.obj
+dataset_org_norm/test/Grooved pins/00024277.obj
+dataset_org_norm/test/Grooved pins/00024902.obj
+dataset_org_norm/test/Grooved pins/00024286.obj
+dataset_org_norm/test/Grooved pins/00025357.obj
+dataset_org_norm/test/Grooved pins/00025138.obj
+dataset_org_norm/test/Grooved pins/00024615.obj
+dataset_org_norm/test/Grooved pins/00025671.obj
+dataset_org_norm/test/Grooved pins/00023603.obj
+dataset_org_norm/test/Grooved pins/00024202.obj
+dataset_org_norm/test/Grooved pins/00025548.obj
+dataset_org_norm/test/Grooved pins/00025533.obj
+dataset_org_norm/test/Grooved pins/00024417.obj
+dataset_org_norm/test/Grooved pins/00025393.obj
+dataset_org_norm/test/Grooved pins/00024201.obj
+dataset_org_norm/test/Grooved pins/00023899.obj
+dataset_org_norm/test/Grooved pins/00023737.obj
+dataset_org_norm/test/Grooved pins/00025482.obj
+dataset_org_norm/test/Grooved pins/00025626.obj
+dataset_org_norm/test/Grooved pins/00025216.obj
+dataset_org_norm/test/Grooved pins/00024309.obj
+dataset_org_norm/test/Grooved pins/00024863.obj
+dataset_org_norm/test/Grooved pins/00024519.obj
+dataset_org_norm/test/Grooved pins/00023648.obj
+dataset_org_norm/test/Grooved pins/00024466.obj
+dataset_org_norm/test/Grooved pins/00024245.obj
+dataset_org_norm/test/Grooved pins/00023950.obj
+dataset_org_norm/test/Grooved pins/00023671.obj
+dataset_org_norm/test/Grooved pins/00023554.obj
+dataset_org_norm/test/Grooved pins/00025394.obj
+dataset_org_norm/test/Grooved pins/00024882.obj
+dataset_org_norm/test/Grooved pins/00023541.obj
+dataset_org_norm/test/Grooved pins/00024161.obj
+dataset_org_norm/test/Grooved pins/00024069.obj
+dataset_org_norm/test/Grooved pins/00024373.obj
+dataset_org_norm/test/Grooved pins/00023758.obj
+dataset_org_norm/test/Grooved pins/00025611.obj
+dataset_org_norm/test/Grooved pins/00023461.obj
+dataset_org_norm/test/Grooved pins/00025313.obj
+dataset_org_norm/test/Grooved pins/00025280.obj
+dataset_org_norm/test/Grooved pins/00024409.obj
+dataset_org_norm/test/Grooved pins/00024016.obj
+dataset_org_norm/test/Grooved pins/00023449.obj
+dataset_org_norm/test/Grooved pins/00025578.obj
+dataset_org_norm/test/Grooved pins/00024377.obj
+dataset_org_norm/test/Grooved pins/00025507.obj
+dataset_org_norm/test/Grooved pins/00024180.obj
+dataset_org_norm/test/Grooved pins/00025667.obj
+dataset_org_norm/test/Grooved pins/00025607.obj
+dataset_org_norm/test/Grooved pins/00025126.obj
+dataset_org_norm/test/Grooved pins/00023580.obj
+dataset_org_norm/test/Grooved pins/00024751.obj
+dataset_org_norm/test/Grooved pins/00024323.obj
+dataset_org_norm/test/Grooved pins/00024224.obj
+dataset_org_norm/test/Grooved pins/00023974.obj
+dataset_org_norm/test/Grooved pins/00023493.obj
+dataset_org_norm/test/Grooved pins/00024035.obj
+dataset_org_norm/test/Grooved pins/00024664.obj
+dataset_org_norm/test/Grooved pins/00024729.obj
+dataset_org_norm/test/Grooved pins/00024397.obj
+dataset_org_norm/test/Grooved pins/00025077.obj
+dataset_org_norm/test/Grooved pins/00023945.obj
+dataset_org_norm/test/Grooved pins/00023467.obj
+dataset_org_norm/test/Grooved pins/00024624.obj
+dataset_org_norm/test/Grooved pins/00025643.obj
+dataset_org_norm/test/Grooved pins/00025552.obj
+dataset_org_norm/test/Grooved pins/00023521.obj
+dataset_org_norm/test/Grooved pins/00025165.obj
+dataset_org_norm/test/Grooved pins/00024706.obj
+dataset_org_norm/test/Grooved pins/00024554.obj
+dataset_org_norm/test/Grooved pins/00023500.obj
+dataset_org_norm/test/Grooved pins/00025557.obj
+dataset_org_norm/test/Grooved pins/00023921.obj
+dataset_org_norm/test/Grooved pins/00025008.obj
+dataset_org_norm/test/Grooved pins/00023942.obj
+dataset_org_norm/test/Grooved pins/00023933.obj
+dataset_org_norm/test/Grooved pins/00024532.obj
+dataset_org_norm/test/Grooved pins/00025555.obj
+dataset_org_norm/test/Grooved pins/00025271.obj
+dataset_org_norm/test/Grooved pins/00023682.obj
+dataset_org_norm/test/Grooved pins/00025588.obj
+dataset_org_norm/test/Grooved pins/00024758.obj
+dataset_org_norm/test/Grooved pins/00024527.obj
+dataset_org_norm/test/Grooved pins/00024092.obj
+dataset_org_norm/test/Grooved pins/00024700.obj
+dataset_org_norm/test/Grooved pins/00023736.obj
+dataset_org_norm/test/Grooved pins/00023618.obj
+dataset_org_norm/test/Grooved pins/00025231.obj
+dataset_org_norm/test/Grooved pins/00025487.obj
+dataset_org_norm/test/Thrust washers/00044264.obj
+dataset_org_norm/test/Thrust washers/00043224.obj
+dataset_org_norm/test/Thrust washers/00042963.obj
+dataset_org_norm/test/Thrust washers/00043021.obj
+dataset_org_norm/test/Thrust washers/00042376.obj
+dataset_org_norm/test/Thrust washers/00043476.obj
+dataset_org_norm/test/Thrust washers/00043417.obj
+dataset_org_norm/test/Thrust washers/00044463.obj
+dataset_org_norm/test/Thrust washers/00043833.obj
+dataset_org_norm/test/Thrust washers/00043143.obj
+dataset_org_norm/test/Thrust washers/00043560.obj
+dataset_org_norm/test/Thrust washers/00042763.obj
+dataset_org_norm/test/Thrust washers/00043098.obj
+dataset_org_norm/test/Thrust washers/00042229.obj
+dataset_org_norm/test/Thrust washers/00042579.obj
+dataset_org_norm/test/Thrust washers/00043172.obj
+dataset_org_norm/test/Thrust washers/00044466.obj
+dataset_org_norm/test/Thrust washers/00043905.obj
+dataset_org_norm/test/Thrust washers/00043394.obj
+dataset_org_norm/test/Thrust washers/00043842.obj
+dataset_org_norm/test/Thrust washers/00044322.obj
+dataset_org_norm/test/Thrust washers/00042659.obj
+dataset_org_norm/test/Thrust washers/00042767.obj
+dataset_org_norm/test/Thrust washers/00043069.obj
+dataset_org_norm/test/Thrust washers/00043856.obj
+dataset_org_norm/test/Thrust washers/00044107.obj
+dataset_org_norm/test/Thrust washers/00044198.obj
+dataset_org_norm/test/Thrust washers/00042823.obj
+dataset_org_norm/test/Thrust washers/00043906.obj
+dataset_org_norm/test/Thrust washers/00043986.obj
+dataset_org_norm/test/Thrust washers/00043070.obj
+dataset_org_norm/test/Thrust washers/00043603.obj
+dataset_org_norm/test/Thrust washers/00044214.obj
+dataset_org_norm/test/Thrust washers/00044546.obj
+dataset_org_norm/test/Thrust washers/00043332.obj
+dataset_org_norm/test/Thrust washers/00044522.obj
+dataset_org_norm/test/Thrust washers/00043778.obj
+dataset_org_norm/test/Thrust washers/00043307.obj
+dataset_org_norm/test/Thrust washers/00043985.obj
+dataset_org_norm/test/Thrust washers/00043377.obj
+dataset_org_norm/test/Thrust washers/00042492.obj
+dataset_org_norm/test/Thrust washers/00042429.obj
+dataset_org_norm/test/Thrust washers/00042645.obj
+dataset_org_norm/test/Thrust washers/00043406.obj
+dataset_org_norm/test/Thrust washers/00042996.obj
+dataset_org_norm/test/Thrust washers/00044009.obj
+dataset_org_norm/test/Thrust washers/00043115.obj
+dataset_org_norm/test/Thrust washers/00042432.obj
+dataset_org_norm/test/Thrust washers/00043680.obj
+dataset_org_norm/test/Thrust washers/00044160.obj
+dataset_org_norm/test/Thrust washers/00042414.obj
+dataset_org_norm/test/Thrust washers/00044414.obj
+dataset_org_norm/test/Thrust washers/00044485.obj
+dataset_org_norm/test/Thrust washers/00043188.obj
+dataset_org_norm/test/Thrust washers/00044176.obj
+dataset_org_norm/test/Thrust washers/00044141.obj
+dataset_org_norm/test/Thrust washers/00043449.obj
+dataset_org_norm/test/Thrust washers/00044217.obj
+dataset_org_norm/test/Thrust washers/00042530.obj
+dataset_org_norm/test/Thrust washers/00043949.obj
+dataset_org_norm/test/Thrust washers/00044211.obj
+dataset_org_norm/test/Thrust washers/00043591.obj
+dataset_org_norm/test/Thrust washers/00043217.obj
+dataset_org_norm/test/Thrust washers/00042234.obj
+dataset_org_norm/test/Thrust washers/00043464.obj
+dataset_org_norm/test/Thrust washers/00043152.obj
+dataset_org_norm/test/Thrust washers/00042743.obj
+dataset_org_norm/test/Thrust washers/00044257.obj
+dataset_org_norm/test/Thrust washers/00044043.obj
+dataset_org_norm/test/Thrust washers/00043207.obj
+dataset_org_norm/test/Thrust washers/00042964.obj
+dataset_org_norm/test/Thrust washers/00043857.obj
+dataset_org_norm/test/Thrust washers/00043000.obj
+dataset_org_norm/test/Thrust washers/00044081.obj
+dataset_org_norm/test/Thrust washers/00043703.obj
+dataset_org_norm/test/Thrust washers/00043423.obj
+dataset_org_norm/test/Thrust washers/00043607.obj
+dataset_org_norm/test/Thrust washers/00042951.obj
+dataset_org_norm/test/Thrust washers/00044248.obj
+dataset_org_norm/test/Thrust washers/00043045.obj
+dataset_org_norm/test/Thrust washers/00042396.obj
+dataset_org_norm/test/Thrust washers/00042606.obj
+dataset_org_norm/test/Thrust washers/00042290.obj
+dataset_org_norm/test/Thrust washers/00043249.obj
+dataset_org_norm/test/Thrust washers/00043547.obj
+dataset_org_norm/test/Thrust washers/00042332.obj
+dataset_org_norm/test/Thrust washers/00042761.obj
+dataset_org_norm/test/Thrust washers/00043589.obj
+dataset_org_norm/test/Thrust washers/00044229.obj
+dataset_org_norm/test/Thrust washers/00043404.obj
+dataset_org_norm/test/Thrust washers/00044265.obj
+dataset_org_norm/test/Thrust washers/00044046.obj
+dataset_org_norm/test/Thrust washers/00043760.obj
+dataset_org_norm/test/Thrust washers/00042947.obj
+dataset_org_norm/test/Thrust washers/00043128.obj
+dataset_org_norm/test/Thrust washers/00044026.obj
+dataset_org_norm/test/Thrust washers/00042489.obj
+dataset_org_norm/test/Thrust washers/00043872.obj
+dataset_org_norm/test/Thrust washers/00042806.obj
+dataset_org_norm/test/Thrust washers/00042762.obj
+dataset_org_norm/test/Flanged plain bearings/00023438.obj
+dataset_org_norm/test/Flanged plain bearings/00023381.obj
+dataset_org_norm/test/Flanged plain bearings/00023386.obj
+dataset_org_norm/test/Flanged plain bearings/00023406.obj
+dataset_org_norm/test/Flanged plain bearings/00023419.obj
+dataset_org_norm/test/Flanged plain bearings/00023400.obj
+dataset_org_norm/test/Flanged plain bearings/00023424.obj
+dataset_org_norm/test/Flanged plain bearings/00023397.obj
+dataset_org_norm/test/Flanged plain bearings/00023378.obj
+dataset_org_norm/test/Flanged plain bearings/00023422.obj
+dataset_org_norm/test/Flanged plain bearings/00023355.obj
+dataset_org_norm/test/Tapping screws/00039133.obj
+dataset_org_norm/test/Tapping screws/00041104.obj
+dataset_org_norm/test/Tapping screws/00039462.obj
+dataset_org_norm/test/Tapping screws/00040107.obj
+dataset_org_norm/test/Tapping screws/00039667.obj
+dataset_org_norm/test/Tapping screws/00040900.obj
+dataset_org_norm/test/Tapping screws/00039633.obj
+dataset_org_norm/test/Tapping screws/00041099.obj
+dataset_org_norm/test/Tapping screws/00039245.obj
+dataset_org_norm/test/Tapping screws/00039438.obj
+dataset_org_norm/test/Tapping screws/00039651.obj
+dataset_org_norm/test/Tapping screws/00039502.obj
+dataset_org_norm/test/Tapping screws/00040540.obj
+dataset_org_norm/test/Tapping screws/00039124.obj
+dataset_org_norm/test/Tapping screws/00040555.obj
+dataset_org_norm/test/Tapping screws/00040907.obj
+dataset_org_norm/test/Tapping screws/00040811.obj
+dataset_org_norm/test/Tapping screws/00039307.obj
+dataset_org_norm/test/Tapping screws/00039578.obj
+dataset_org_norm/test/Tapping screws/00040024.obj
+dataset_org_norm/test/Tapping screws/00039551.obj
+dataset_org_norm/test/Tapping screws/00040871.obj
+dataset_org_norm/test/Tapping screws/00040187.obj
+dataset_org_norm/test/Tapping screws/00040168.obj
+dataset_org_norm/test/Tapping screws/00040528.obj
+dataset_org_norm/test/Tapping screws/00040722.obj
+dataset_org_norm/test/Tapping screws/00039316.obj
+dataset_org_norm/test/Tapping screws/00040066.obj
+dataset_org_norm/test/Tapping screws/00039500.obj
+dataset_org_norm/test/Tapping screws/00040738.obj
+dataset_org_norm/test/Tapping screws/00040496.obj
+dataset_org_norm/test/Tapping screws/00039430.obj
+dataset_org_norm/test/Tapping screws/00040897.obj
+dataset_org_norm/test/Tapping screws/00041173.obj
+dataset_org_norm/test/Tapping screws/00039662.obj
+dataset_org_norm/test/Tapping screws/00040064.obj
+dataset_org_norm/test/Tapping screws/00039721.obj
+dataset_org_norm/test/Tapping screws/00040339.obj
+dataset_org_norm/test/Tapping screws/00039055.obj
+dataset_org_norm/test/Tapping screws/00040977.obj
+dataset_org_norm/test/Tapping screws/00039745.obj
+dataset_org_norm/test/Tapping screws/00039161.obj
+dataset_org_norm/test/Tapping screws/00039489.obj
+dataset_org_norm/test/Tapping screws/00040298.obj
+dataset_org_norm/test/Tapping screws/00040596.obj
+dataset_org_norm/test/Tapping screws/00039931.obj
+dataset_org_norm/test/Tapping screws/00041029.obj
+dataset_org_norm/test/Tapping screws/00039932.obj
+dataset_org_norm/test/Tapping screws/00040888.obj
+dataset_org_norm/test/Tapping screws/00039543.obj
+dataset_org_norm/test/Tapping screws/00039115.obj
+dataset_org_norm/test/Tapping screws/00039922.obj
+dataset_org_norm/test/Tapping screws/00040266.obj
+dataset_org_norm/test/Tapping screws/00039106.obj
+dataset_org_norm/test/Tapping screws/00039478.obj
+dataset_org_norm/test/Tapping screws/00039681.obj
+dataset_org_norm/test/Tapping screws/00039244.obj
+dataset_org_norm/test/Tapping screws/00040802.obj
+dataset_org_norm/test/Tapping screws/00039104.obj
+dataset_org_norm/test/Tapping screws/00039117.obj
+dataset_org_norm/test/Tapping screws/00040035.obj
+dataset_org_norm/test/Tapping screws/00039700.obj
+dataset_org_norm/test/Tapping screws/00040800.obj
+dataset_org_norm/test/Tapping screws/00039561.obj
+dataset_org_norm/test/Tapping screws/00039352.obj
+dataset_org_norm/test/Tapping screws/00040034.obj
+dataset_org_norm/test/Tapping screws/00039567.obj
+dataset_org_norm/test/Tapping screws/00040017.obj
+dataset_org_norm/test/Tapping screws/00039928.obj
+dataset_org_norm/test/Tapping screws/00041079.obj
+dataset_org_norm/test/Tapping screws/00040623.obj
+dataset_org_norm/test/Tapping screws/00040044.obj
+dataset_org_norm/test/Tapping screws/00041057.obj
+dataset_org_norm/test/Tapping screws/00039816.obj
+dataset_org_norm/test/Tapping screws/00039718.obj
+dataset_org_norm/test/Tapping screws/00039372.obj
+dataset_org_norm/test/Tapping screws/00040606.obj
+dataset_org_norm/test/Tapping screws/00040711.obj
+dataset_org_norm/test/Tapping screws/00040078.obj
+dataset_org_norm/test/Tapping screws/00039720.obj
+dataset_org_norm/test/Tapping screws/00039592.obj
+dataset_org_norm/test/Tapping screws/00039387.obj
+dataset_org_norm/test/Tapping screws/00040638.obj
+dataset_org_norm/test/Tapping screws/00039631.obj
+dataset_org_norm/test/Tapping screws/00040278.obj
+dataset_org_norm/test/Tapping screws/00040672.obj
+dataset_org_norm/test/Tapping screws/00041106.obj
+dataset_org_norm/test/Tapping screws/00040903.obj
+dataset_org_norm/test/Tapping screws/00039687.obj
+dataset_org_norm/test/Tapping screws/00039393.obj
+dataset_org_norm/test/Tapping screws/00040913.obj
+dataset_org_norm/test/Tapping screws/00039277.obj
+dataset_org_norm/test/Tapping screws/00039669.obj
+dataset_org_norm/test/Tapping screws/00039840.obj
+dataset_org_norm/test/Tapping screws/00041130.obj
+dataset_org_norm/test/Tapping screws/00040684.obj
+dataset_org_norm/test/Tapping screws/00039930.obj
+dataset_org_norm/test/Tapping screws/00039450.obj
+dataset_org_norm/test/Tapping screws/00039401.obj
+dataset_org_norm/test/Tapping screws/00039061.obj
+dataset_org_norm/test/Chain drives/00015092.obj
+dataset_org_norm/test/Chain drives/00015059.obj
+dataset_org_norm/test/Chain drives/00015104.obj
+dataset_org_norm/test/Chain drives/00015122.obj
+dataset_org_norm/test/Chain drives/00015081.obj
+dataset_org_norm/test/Chain drives/00015146.obj
+dataset_org_norm/test/Chain drives/00015074.obj
+dataset_org_norm/test/Chain drives/00015079.obj
+dataset_org_norm/test/Chain drives/00015135.obj
+dataset_org_norm/test/Chain drives/00015080.obj
+dataset_org_norm/test/Chain drives/00015108.obj
+dataset_org_norm/test/Chain drives/00015069.obj
+dataset_org_norm/test/Chain drives/00015084.obj
+dataset_org_norm/test/Chain drives/00015112.obj
+dataset_org_norm/test/Chain drives/00015125.obj
+dataset_org_norm/test/Chain drives/00015129.obj
+dataset_org_norm/test/Chain drives/00015050.obj
+dataset_org_norm/test/Chain drives/00015113.obj
+dataset_org_norm/test/Cylindrical pins/00020014.obj
+dataset_org_norm/test/Cylindrical pins/00020085.obj
+dataset_org_norm/test/Cylindrical pins/00020520.obj
+dataset_org_norm/test/Cylindrical pins/00020138.obj
+dataset_org_norm/test/Cylindrical pins/00020956.obj
+dataset_org_norm/test/Cylindrical pins/00020012.obj
+dataset_org_norm/test/Cylindrical pins/00019657.obj
+dataset_org_norm/test/Cylindrical pins/00019728.obj
+dataset_org_norm/test/Cylindrical pins/00020877.obj
+dataset_org_norm/test/Cylindrical pins/00019468.obj
+dataset_org_norm/test/Cylindrical pins/00020096.obj
+dataset_org_norm/test/Cylindrical pins/00019583.obj
+dataset_org_norm/test/Cylindrical pins/00019983.obj
+dataset_org_norm/test/Cylindrical pins/00020034.obj
+dataset_org_norm/test/Cylindrical pins/00019908.obj
+dataset_org_norm/test/Cylindrical pins/00020035.obj
+dataset_org_norm/test/Cylindrical pins/00020811.obj
+dataset_org_norm/test/Cylindrical pins/00021018.obj
+dataset_org_norm/test/Cylindrical pins/00019882.obj
+dataset_org_norm/test/Cylindrical pins/00020171.obj
+dataset_org_norm/test/Cylindrical pins/00020613.obj
+dataset_org_norm/test/Cylindrical pins/00020638.obj
+dataset_org_norm/test/Cylindrical pins/00020524.obj
+dataset_org_norm/test/Cylindrical pins/00019559.obj
+dataset_org_norm/test/Cylindrical pins/00020947.obj
+dataset_org_norm/test/Cylindrical pins/00019874.obj
+dataset_org_norm/test/Cylindrical pins/00020423.obj
+dataset_org_norm/test/Cylindrical pins/00019450.obj
+dataset_org_norm/test/Cylindrical pins/00021112.obj
+dataset_org_norm/test/Cylindrical pins/00019946.obj
+dataset_org_norm/test/Cylindrical pins/00019427.obj
+dataset_org_norm/test/Cylindrical pins/00020182.obj
+dataset_org_norm/test/Cylindrical pins/00020006.obj
+dataset_org_norm/test/Cylindrical pins/00019779.obj
+dataset_org_norm/test/Cylindrical pins/00020933.obj
+dataset_org_norm/test/Cylindrical pins/00020300.obj
+dataset_org_norm/test/Cylindrical pins/00020546.obj
+dataset_org_norm/test/Cylindrical pins/00019984.obj
+dataset_org_norm/test/Cylindrical pins/00019968.obj
+dataset_org_norm/test/Cylindrical pins/00020465.obj
+dataset_org_norm/test/Cylindrical pins/00020852.obj
+dataset_org_norm/test/Cylindrical pins/00020482.obj
+dataset_org_norm/test/Cylindrical pins/00019835.obj
+dataset_org_norm/test/Cylindrical pins/00020319.obj
+dataset_org_norm/test/Cylindrical pins/00020622.obj
+dataset_org_norm/test/Cylindrical pins/00019867.obj
+dataset_org_norm/test/Cylindrical pins/00020562.obj
+dataset_org_norm/test/Cylindrical pins/00019829.obj
+dataset_org_norm/test/Cylindrical pins/00020459.obj
+dataset_org_norm/test/Cylindrical pins/00019982.obj
+dataset_org_norm/test/Cylindrical pins/00020973.obj
+dataset_org_norm/test/Cylindrical pins/00020508.obj
+dataset_org_norm/test/Cylindrical pins/00020736.obj
+dataset_org_norm/test/Cylindrical pins/00019549.obj
+dataset_org_norm/test/Cylindrical pins/00019871.obj
+dataset_org_norm/test/Cylindrical pins/00019261.obj
+dataset_org_norm/test/Cylindrical pins/00019682.obj
+dataset_org_norm/test/Cylindrical pins/00020112.obj
+dataset_org_norm/test/Cylindrical pins/00019467.obj
+dataset_org_norm/test/Cylindrical pins/00020675.obj
+dataset_org_norm/test/Cylindrical pins/00019408.obj
+dataset_org_norm/test/Cylindrical pins/00021140.obj
+dataset_org_norm/test/Cylindrical pins/00021113.obj
+dataset_org_norm/test/Cylindrical pins/00020307.obj
+dataset_org_norm/test/Cylindrical pins/00019670.obj
+dataset_org_norm/test/Cylindrical pins/00020714.obj
+dataset_org_norm/test/Cylindrical pins/00019978.obj
+dataset_org_norm/test/Cylindrical pins/00019328.obj
+dataset_org_norm/test/Cylindrical pins/00021143.obj
+dataset_org_norm/test/Cylindrical pins/00020992.obj
+dataset_org_norm/test/Cylindrical pins/00020113.obj
+dataset_org_norm/test/Cylindrical pins/00020344.obj
+dataset_org_norm/test/Cylindrical pins/00019831.obj
+dataset_org_norm/test/Cylindrical pins/00020534.obj
+dataset_org_norm/test/Cylindrical pins/00019465.obj
+dataset_org_norm/test/Cylindrical pins/00019288.obj
+dataset_org_norm/test/Cylindrical pins/00019311.obj
+dataset_org_norm/test/Cylindrical pins/00020238.obj
+dataset_org_norm/test/Cylindrical pins/00019892.obj
+dataset_org_norm/test/Cylindrical pins/00020748.obj
+dataset_org_norm/test/Cylindrical pins/00020280.obj
+dataset_org_norm/test/Cylindrical pins/00021094.obj
+dataset_org_norm/test/Cylindrical pins/00020229.obj
+dataset_org_norm/test/Cylindrical pins/00019643.obj
+dataset_org_norm/test/Cylindrical pins/00019718.obj
+dataset_org_norm/test/Cylindrical pins/00019911.obj
+dataset_org_norm/test/Cylindrical pins/00020431.obj
+dataset_org_norm/test/Cylindrical pins/00020444.obj
+dataset_org_norm/test/Cylindrical pins/00020345.obj
+dataset_org_norm/test/Cylindrical pins/00020008.obj
+dataset_org_norm/test/Cylindrical pins/00019642.obj
+dataset_org_norm/test/Cylindrical pins/00020809.obj
+dataset_org_norm/test/Cylindrical pins/00020683.obj
+dataset_org_norm/test/Cylindrical pins/00019458.obj
+dataset_org_norm/test/Cylindrical pins/00019969.obj
+dataset_org_norm/test/Cylindrical pins/00020410.obj
+dataset_org_norm/test/Cylindrical pins/00020535.obj
+dataset_org_norm/test/Cylindrical pins/00020772.obj
+dataset_org_norm/test/Cylindrical pins/00019369.obj
+dataset_org_norm/test/Cylindrical pins/00021003.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053740.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054690.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054412.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053823.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054963.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053809.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00052629.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053754.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054577.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053083.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00052947.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054993.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053798.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053013.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054579.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054437.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054468.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053966.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054819.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053860.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054191.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00052849.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053300.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053895.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00052646.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053931.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053544.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054091.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054497.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053516.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054224.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00052817.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053489.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054072.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054469.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053458.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053838.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053422.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053199.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00052655.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00052661.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054443.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053080.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053694.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054568.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054068.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054078.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054022.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054013.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00052938.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00052953.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00052973.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053239.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053696.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053879.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054534.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054284.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054863.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054122.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053445.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053155.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00052792.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053172.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00052907.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054942.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053949.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054446.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054969.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053794.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054780.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053523.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054037.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053914.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054217.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054716.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053136.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054159.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054777.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054572.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053005.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053858.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053427.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053421.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054686.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053744.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054757.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053569.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054329.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054923.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053464.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053538.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054466.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053849.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054834.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054561.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053066.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00053025.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054165.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054750.obj
+dataset_org_norm/test/Screws and bolts with countersunk head/00054361.obj
+dataset_org_norm/test/Hinge/00027496.obj
+dataset_org_norm/test/Hinge/00027485.obj
+dataset_org_norm/test/Hinge/00027497.obj
+dataset_org_norm/test/Hinge/00027486.obj
+dataset_org_norm/test/Hinge/00027481.obj
+dataset_org_norm/test/Taper pins/00038748.obj
+dataset_org_norm/test/Taper pins/00038317.obj
+dataset_org_norm/test/Taper pins/00038379.obj
+dataset_org_norm/test/Taper pins/00037992.obj
+dataset_org_norm/test/Taper pins/00038706.obj
+dataset_org_norm/test/Taper pins/00038459.obj
+dataset_org_norm/test/Taper pins/00038871.obj
+dataset_org_norm/test/Taper pins/00037552.obj
+dataset_org_norm/test/Taper pins/00038747.obj
+dataset_org_norm/test/Taper pins/00037823.obj
+dataset_org_norm/test/Taper pins/00038952.obj
+dataset_org_norm/test/Taper pins/00037239.obj
+dataset_org_norm/test/Taper pins/00037286.obj
+dataset_org_norm/test/Taper pins/00038049.obj
+dataset_org_norm/test/Taper pins/00038806.obj
+dataset_org_norm/test/Taper pins/00037807.obj
+dataset_org_norm/test/Taper pins/00038959.obj
+dataset_org_norm/test/Taper pins/00037923.obj
+dataset_org_norm/test/Taper pins/00038589.obj
+dataset_org_norm/test/Taper pins/00038464.obj
+dataset_org_norm/test/Taper pins/00038401.obj
+dataset_org_norm/test/Taper pins/00038103.obj
+dataset_org_norm/test/Taper pins/00038164.obj
+dataset_org_norm/test/Taper pins/00038624.obj
+dataset_org_norm/test/Taper pins/00037836.obj
+dataset_org_norm/test/Taper pins/00037320.obj
+dataset_org_norm/test/Taper pins/00038648.obj
+dataset_org_norm/test/Taper pins/00037747.obj
+dataset_org_norm/test/Taper pins/00038852.obj
+dataset_org_norm/test/Taper pins/00038676.obj
+dataset_org_norm/test/Taper pins/00037325.obj
+dataset_org_norm/test/Taper pins/00038412.obj
+dataset_org_norm/test/Taper pins/00037841.obj
+dataset_org_norm/test/Taper pins/00037833.obj
+dataset_org_norm/test/Taper pins/00038838.obj
+dataset_org_norm/test/Taper pins/00037908.obj
+dataset_org_norm/test/Taper pins/00038034.obj
+dataset_org_norm/test/Taper pins/00038855.obj
+dataset_org_norm/test/Taper pins/00038438.obj
+dataset_org_norm/test/Taper pins/00038163.obj
+dataset_org_norm/test/Taper pins/00038560.obj
+dataset_org_norm/test/Taper pins/00037554.obj
+dataset_org_norm/test/Taper pins/00037566.obj
+dataset_org_norm/test/Taper pins/00038300.obj
+dataset_org_norm/test/Taper pins/00038235.obj
+dataset_org_norm/test/Taper pins/00038707.obj
+dataset_org_norm/test/Taper pins/00037299.obj
+dataset_org_norm/test/Taper pins/00038757.obj
+dataset_org_norm/test/Taper pins/00037801.obj
+dataset_org_norm/test/Taper pins/00037843.obj
+dataset_org_norm/test/Taper pins/00038960.obj
+dataset_org_norm/test/Taper pins/00038520.obj
+dataset_org_norm/test/Taper pins/00037478.obj
+dataset_org_norm/test/Taper pins/00037879.obj
+dataset_org_norm/test/Taper pins/00037888.obj
+dataset_org_norm/test/Taper pins/00038545.obj
+dataset_org_norm/test/Taper pins/00038044.obj
+dataset_org_norm/test/Taper pins/00037796.obj
+dataset_org_norm/test/Taper pins/00038849.obj
+dataset_org_norm/test/Taper pins/00038791.obj
+dataset_org_norm/test/Taper pins/00037491.obj
+dataset_org_norm/test/Taper pins/00038652.obj
+dataset_org_norm/test/Taper pins/00037741.obj
+dataset_org_norm/test/Taper pins/00038835.obj
+dataset_org_norm/test/Taper pins/00037628.obj
+dataset_org_norm/test/Taper pins/00037983.obj
+dataset_org_norm/test/Taper pins/00038330.obj
+dataset_org_norm/test/Taper pins/00037787.obj
+dataset_org_norm/test/Taper pins/00038048.obj
+dataset_org_norm/test/Taper pins/00038088.obj
+dataset_org_norm/test/Taper pins/00038215.obj
+dataset_org_norm/test/Taper pins/00037697.obj
+dataset_org_norm/test/Taper pins/00038880.obj
+dataset_org_norm/test/Taper pins/00038931.obj
+dataset_org_norm/test/Taper pins/00037903.obj
+dataset_org_norm/test/Taper pins/00038693.obj
+dataset_org_norm/test/Taper pins/00037912.obj
+dataset_org_norm/test/Taper pins/00038430.obj
+dataset_org_norm/test/Taper pins/00038491.obj
+dataset_org_norm/test/Taper pins/00038984.obj
+dataset_org_norm/test/Taper pins/00038153.obj
+dataset_org_norm/test/Taper pins/00037220.obj
+dataset_org_norm/test/Taper pins/00038353.obj
+dataset_org_norm/test/Taper pins/00038078.obj
+dataset_org_norm/test/Taper pins/00038169.obj
+dataset_org_norm/test/Taper pins/00037713.obj
+dataset_org_norm/test/Taper pins/00037431.obj
+dataset_org_norm/test/Taper pins/00037764.obj
+dataset_org_norm/test/Taper pins/00037871.obj
+dataset_org_norm/test/Taper pins/00037991.obj
+dataset_org_norm/test/Taper pins/00038893.obj
+dataset_org_norm/test/Taper pins/00037985.obj
+dataset_org_norm/test/Taper pins/00037639.obj
+dataset_org_norm/test/Taper pins/00037630.obj
+dataset_org_norm/test/Taper pins/00037975.obj
+dataset_org_norm/test/Taper pins/00037936.obj
+dataset_org_norm/test/Taper pins/00038453.obj
+dataset_org_norm/test/Taper pins/00037711.obj
+dataset_org_norm/test/Taper pins/00038701.obj
+dataset_org_norm/test/Taper pins/00037262.obj
+dataset_org_norm/test/Square nuts/00031721.obj
+dataset_org_norm/test/Square nuts/00031706.obj
+dataset_org_norm/test/Square nuts/00031737.obj
+dataset_org_norm/test/Square nuts/00031704.obj
+dataset_org_norm/test/Square nuts/00031752.obj
+dataset_org_norm/test/Square nuts/00031744.obj
+dataset_org_norm/test/Square nuts/00031746.obj
+dataset_org_norm/test/Square nuts/00031734.obj
+dataset_org_norm/test/Square nuts/00031750.obj
+dataset_org_norm/test/Nozzle/00048559.obj
+dataset_org_norm/test/Nozzle/00048563.obj
+dataset_org_norm/test/Nozzle/00048518.obj
+dataset_org_norm/test/Nozzle/00048532.obj
+dataset_org_norm/test/Nozzle/00048432.obj
+dataset_org_norm/test/Nozzle/00048548.obj
+dataset_org_norm/test/Nozzle/00048545.obj
+dataset_org_norm/test/Nozzle/00048516.obj
+dataset_org_norm/test/Nozzle/00048530.obj
+dataset_org_norm/test/Nozzle/00048429.obj
+dataset_org_norm/test/Nozzle/00048423.obj
+dataset_org_norm/test/Nozzle/00048493.obj
+dataset_org_norm/test/Nozzle/00048512.obj
+dataset_org_norm/test/Nozzle/00048459.obj
+dataset_org_norm/test/Nozzle/00048531.obj
+dataset_org_norm/test/Nozzle/00048556.obj
+dataset_org_norm/test/Nozzle/00048554.obj
+dataset_org_norm/test/Nozzle/00048418.obj
+dataset_org_norm/test/Nozzle/00048557.obj
+dataset_org_norm/test/Nozzle/00048534.obj
+dataset_org_norm/test/Nozzle/00048517.obj
+dataset_org_norm/test/Nozzle/00048419.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011849.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010976.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010503.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006491.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011315.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005079.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00009092.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010514.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005233.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011238.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00009519.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010823.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006673.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00009950.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011745.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008622.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006175.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00007998.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011154.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005484.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00007608.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00007474.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006991.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008139.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006830.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008543.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005610.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010510.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011725.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005824.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010631.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010055.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005067.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010500.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005197.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008945.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006682.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011410.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008889.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00009820.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005172.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006188.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00007659.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00007140.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011387.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005342.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005871.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00009017.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008881.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008283.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006801.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006184.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010864.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011820.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008672.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005998.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008045.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008763.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011730.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010032.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011884.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006371.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011728.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010856.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010828.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00007416.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008274.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006316.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00009443.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011852.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00004992.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008299.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006896.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008704.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008857.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010299.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00010056.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005499.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011057.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00007703.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011609.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00007950.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005970.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005614.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008748.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005720.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00007674.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005602.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006604.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00009955.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00011362.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005399.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00008916.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00007903.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006489.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00007137.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006143.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00009003.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00005745.obj
+dataset_org_norm/test/Screws and bolts with hexagonal head/00006240.obj
+dataset_org_norm/test/Studs/00035034.obj
+dataset_org_norm/test/Studs/00033406.obj
+dataset_org_norm/test/Studs/00032847.obj
+dataset_org_norm/test/Studs/00035390.obj
+dataset_org_norm/test/Studs/00033536.obj
+dataset_org_norm/test/Studs/00035088.obj
+dataset_org_norm/test/Studs/00033342.obj
+dataset_org_norm/test/Studs/00034548.obj
+dataset_org_norm/test/Studs/00034779.obj
+dataset_org_norm/test/Studs/00033222.obj
+dataset_org_norm/test/Studs/00035514.obj
+dataset_org_norm/test/Studs/00035730.obj
+dataset_org_norm/test/Studs/00033604.obj
+dataset_org_norm/test/Studs/00035706.obj
+dataset_org_norm/test/Studs/00033593.obj
+dataset_org_norm/test/Studs/00034566.obj
+dataset_org_norm/test/Studs/00034721.obj
+dataset_org_norm/test/Studs/00035043.obj
+dataset_org_norm/test/Studs/00034461.obj
+dataset_org_norm/test/Studs/00034108.obj
+dataset_org_norm/test/Studs/00032864.obj
+dataset_org_norm/test/Studs/00034529.obj
+dataset_org_norm/test/Studs/00033217.obj
+dataset_org_norm/test/Studs/00035257.obj
+dataset_org_norm/test/Studs/00034933.obj
+dataset_org_norm/test/Studs/00035180.obj
+dataset_org_norm/test/Studs/00034432.obj
+dataset_org_norm/test/Studs/00035352.obj
+dataset_org_norm/test/Studs/00034157.obj
+dataset_org_norm/test/Studs/00033002.obj
+dataset_org_norm/test/Studs/00034048.obj
+dataset_org_norm/test/Studs/00032563.obj
+dataset_org_norm/test/Studs/00033909.obj
+dataset_org_norm/test/Studs/00034209.obj
+dataset_org_norm/test/Studs/00033653.obj
+dataset_org_norm/test/Studs/00036604.obj
+dataset_org_norm/test/Studs/00036549.obj
+dataset_org_norm/test/Studs/00035506.obj
+dataset_org_norm/test/Studs/00033511.obj
+dataset_org_norm/test/Studs/00032605.obj
+dataset_org_norm/test/Studs/00035677.obj
+dataset_org_norm/test/Studs/00035406.obj
+dataset_org_norm/test/Studs/00034966.obj
+dataset_org_norm/test/Studs/00033127.obj
+dataset_org_norm/test/Studs/00035000.obj
+dataset_org_norm/test/Studs/00035905.obj
+dataset_org_norm/test/Studs/00035351.obj
+dataset_org_norm/test/Studs/00036606.obj
+dataset_org_norm/test/Studs/00032544.obj
+dataset_org_norm/test/Studs/00035151.obj
+dataset_org_norm/test/Studs/00032631.obj
+dataset_org_norm/test/Studs/00033358.obj
+dataset_org_norm/test/Studs/00035977.obj
+dataset_org_norm/test/Studs/00034429.obj
+dataset_org_norm/test/Studs/00032629.obj
+dataset_org_norm/test/Studs/00036176.obj
+dataset_org_norm/test/Studs/00033218.obj
+dataset_org_norm/test/Studs/00034873.obj
+dataset_org_norm/test/Studs/00035141.obj
+dataset_org_norm/test/Studs/00034099.obj
+dataset_org_norm/test/Studs/00032680.obj
+dataset_org_norm/test/Studs/00036040.obj
+dataset_org_norm/test/Studs/00033143.obj
+dataset_org_norm/test/Studs/00034747.obj
+dataset_org_norm/test/Studs/00034107.obj
+dataset_org_norm/test/Studs/00034500.obj
+dataset_org_norm/test/Studs/00033311.obj
+dataset_org_norm/test/Studs/00032911.obj
+dataset_org_norm/test/Studs/00034819.obj
+dataset_org_norm/test/Studs/00036050.obj
+dataset_org_norm/test/Studs/00033177.obj
+dataset_org_norm/test/Studs/00033425.obj
+dataset_org_norm/test/Studs/00035749.obj
+dataset_org_norm/test/Studs/00035722.obj
+dataset_org_norm/test/Studs/00034314.obj
+dataset_org_norm/test/Studs/00035515.obj
+dataset_org_norm/test/Studs/00035339.obj
+dataset_org_norm/test/Studs/00035366.obj
+dataset_org_norm/test/Studs/00032684.obj
+dataset_org_norm/test/Studs/00035733.obj
+dataset_org_norm/test/Studs/00035487.obj
+dataset_org_norm/test/Studs/00035832.obj
+dataset_org_norm/test/Studs/00035572.obj
+dataset_org_norm/test/Studs/00036256.obj
+dataset_org_norm/test/Studs/00036487.obj
+dataset_org_norm/test/Studs/00033398.obj
+dataset_org_norm/test/Studs/00033387.obj
+dataset_org_norm/test/Studs/00033732.obj
+dataset_org_norm/test/Studs/00034859.obj
+dataset_org_norm/test/Studs/00035664.obj
+dataset_org_norm/test/Studs/00032865.obj
+dataset_org_norm/test/Studs/00035252.obj
+dataset_org_norm/test/Studs/00035872.obj
+dataset_org_norm/test/Studs/00033371.obj
+dataset_org_norm/test/Studs/00036081.obj
+dataset_org_norm/test/Studs/00035837.obj
+dataset_org_norm/test/Studs/00036126.obj
+dataset_org_norm/test/Studs/00033711.obj
+dataset_org_norm/test/Studs/00033270.obj
+dataset_org_norm/test/Studs/00033842.obj
+dataset_org_norm/test/Square/00031650.obj
+dataset_org_norm/test/Square/00031646.obj
+dataset_org_norm/test/Square/00031662.obj
+dataset_org_norm/test/Square/00031684.obj
+dataset_org_norm/test/Square/00031689.obj
+dataset_org_norm/test/Square/00031701.obj
+dataset_org_norm/test/Square/00031669.obj
+dataset_org_norm/test/Square/00031639.obj
+dataset_org_norm/test/Square/00031645.obj
+dataset_org_norm/test/Square/00031649.obj
+dataset_org_norm/test/Square/00031680.obj
+dataset_org_norm/test/Square/00031693.obj
+dataset_org_norm/test/Square/00031644.obj
+dataset_org_norm/test/Square/00031640.obj
+dataset_org_norm/test/Right angular gearings/00050492.obj
+dataset_org_norm/test/Right angular gearings/00050502.obj
+dataset_org_norm/test/Right angular gearings/00050501.obj
+dataset_org_norm/test/Right angular gearings/00050491.obj
+dataset_org_norm/test/Castle nuts/00014929.obj
+dataset_org_norm/test/Castle nuts/00014904.obj
+dataset_org_norm/test/Castle nuts/00014850.obj
+dataset_org_norm/test/Castle nuts/00014832.obj
+dataset_org_norm/test/Castle nuts/00014759.obj
+dataset_org_norm/test/Castle nuts/00014745.obj
+dataset_org_norm/test/Castle nuts/00014871.obj
+dataset_org_norm/test/Castle nuts/00014779.obj
+dataset_org_norm/test/Castle nuts/00014761.obj
+dataset_org_norm/test/Castle nuts/00014822.obj
+dataset_org_norm/test/Castle nuts/00014882.obj
+dataset_org_norm/test/Castle nuts/00014801.obj
+dataset_org_norm/test/Castle nuts/00014942.obj
+dataset_org_norm/test/Castle nuts/00014790.obj
+dataset_org_norm/test/Castle nuts/00014739.obj
+dataset_org_norm/test/Castle nuts/00014889.obj
+dataset_org_norm/test/Castle nuts/00014874.obj
+dataset_org_norm/test/Castle nuts/00014884.obj
+dataset_org_norm/test/Castle nuts/00014879.obj
+dataset_org_norm/test/Castle nuts/00014903.obj
+dataset_org_norm/test/Castle nuts/00014899.obj
+dataset_org_norm/test/Castle nuts/00014931.obj
+dataset_org_norm/test/Castle nuts/00014916.obj
+dataset_org_norm/test/Castle nuts/00014817.obj
+dataset_org_norm/test/Castle nuts/00014935.obj
+dataset_org_norm/test/Castle nuts/00014729.obj
+dataset_org_norm/test/Castle nuts/00014735.obj
+dataset_org_norm/test/Castle nuts/00014948.obj
+dataset_org_norm/test/Castle nuts/00014808.obj
+dataset_org_norm/test/Castle nuts/00014732.obj
+dataset_org_norm/test/Castle nuts/00014927.obj
+dataset_org_norm/test/Castle nuts/00014893.obj
+dataset_org_norm/test/Castle nuts/00014857.obj
+dataset_org_norm/test/Castle nuts/00014918.obj
+dataset_org_norm/test/Castle nuts/00014731.obj
+dataset_org_norm/test/Castle nuts/00014870.obj
+dataset_org_norm/test/Castle nuts/00014867.obj
+dataset_org_norm/test/Castle nuts/00014917.obj
+dataset_org_norm/test/Castle nuts/00014774.obj
+dataset_org_norm/test/Castle nuts/00014741.obj
+dataset_org_norm/test/Castle nuts/00014900.obj
+dataset_org_norm/test/Castle nuts/00014767.obj
+dataset_org_norm/test/Castle nuts/00014786.obj
+dataset_org_norm/test/Castle nuts/00014914.obj
+dataset_org_norm/test/Castle nuts/00014748.obj
+dataset_org_norm/test/Locating pins/00047696.obj
+dataset_org_norm/test/Locating pins/00047707.obj
+dataset_org_norm/test/Locating pins/00047683.obj
+dataset_org_norm/test/Locating pins/00047703.obj
+dataset_org_norm/test/Locating pins/00047720.obj
+dataset_org_norm/test/Locating pins/00047718.obj
+dataset_org_norm/test/Locating pins/00047679.obj
+dataset_org_norm/test/Locating pins/00047697.obj
+dataset_org_norm/test/Locating pins/00047699.obj
+dataset_org_norm/test/Locating pins/00047708.obj
+dataset_org_norm/test/Locating pins/00047692.obj
+dataset_org_norm/test/Turbine/00044676.obj
+dataset_org_norm/test/Hook/00027535.obj
+dataset_org_norm/test/Hook/00027524.obj
+dataset_org_norm/test/Hook/00027564.obj
+dataset_org_norm/test/Hook/00027624.obj
+dataset_org_norm/test/Hook/00027629.obj
+dataset_org_norm/test/Hook/00027581.obj
+dataset_org_norm/test/Hook/00027519.obj
+dataset_org_norm/test/Hook/00027623.obj
+dataset_org_norm/test/Hook/00027617.obj
+dataset_org_norm/test/Hook/00027583.obj
+dataset_org_norm/test/Collars/00015317.obj
+dataset_org_norm/test/Collars/00015305.obj
+dataset_org_norm/test/Collars/00015333.obj
+dataset_org_norm/test/Collars/00015338.obj
+dataset_org_norm/test/Collars/00015327.obj
+dataset_org_norm/test/Collars/00015325.obj
+dataset_org_norm/test/Collars/00015314.obj
+dataset_org_norm/test/Collars/00015334.obj
+dataset_org_norm/test/Collars/00015341.obj
+dataset_org_norm/test/Collars/00015332.obj
+dataset_org_norm/test/Knob/00046300.obj
+dataset_org_norm/test/Knob/00046489.obj
+dataset_org_norm/test/Knob/00046229.obj
+dataset_org_norm/test/Knob/00046075.obj
+dataset_org_norm/test/Knob/00046501.obj
+dataset_org_norm/test/Knob/00046502.obj
+dataset_org_norm/test/Knob/00046449.obj
+dataset_org_norm/test/Knob/00046482.obj
+dataset_org_norm/test/Knob/00046441.obj
+dataset_org_norm/test/Knob/00046533.obj
+dataset_org_norm/test/Knob/00046454.obj
+dataset_org_norm/test/Knob/00046248.obj
+dataset_org_norm/test/Knob/00046427.obj
+dataset_org_norm/test/Knob/00046172.obj
+dataset_org_norm/test/Knob/00046419.obj
+dataset_org_norm/test/Knob/00046265.obj
+dataset_org_norm/test/Knob/00045993.obj
+dataset_org_norm/test/Knob/00046254.obj
+dataset_org_norm/test/Knob/00046431.obj
+dataset_org_norm/test/Knob/00046214.obj
+dataset_org_norm/test/Knob/00046183.obj
+dataset_org_norm/test/Knob/00046049.obj
+dataset_org_norm/test/Knob/00045987.obj
+dataset_org_norm/test/Knob/00046366.obj
+dataset_org_norm/test/Knob/00046410.obj
+dataset_org_norm/test/Knob/00046446.obj
+dataset_org_norm/test/Knob/00046037.obj
+dataset_org_norm/test/Knob/00046411.obj
+dataset_org_norm/test/Knob/00046014.obj
+dataset_org_norm/test/Knob/00046028.obj
+dataset_org_norm/test/Knob/00046295.obj
+dataset_org_norm/test/Knob/00046542.obj
+dataset_org_norm/test/Knob/00046216.obj
+dataset_org_norm/test/Knob/00046031.obj
+dataset_org_norm/test/Knob/00046090.obj
+dataset_org_norm/test/Knob/00046486.obj
+dataset_org_norm/test/Knob/00046555.obj
+dataset_org_norm/test/Knob/00046426.obj
+dataset_org_norm/test/Knob/00046585.obj
+dataset_org_norm/test/Knob/00046286.obj
+dataset_org_norm/test/Knob/00046480.obj
+dataset_org_norm/test/Knob/00046131.obj
+dataset_org_norm/test/Knob/00046299.obj
+dataset_org_norm/test/Knob/00046588.obj
+dataset_org_norm/test/Knob/00046414.obj
+dataset_org_norm/test/Knob/00046476.obj
+dataset_org_norm/test/Knob/00046528.obj
+dataset_org_norm/test/Knob/00046462.obj
+dataset_org_norm/test/Knob/00046602.obj
+dataset_org_norm/test/Knob/00046115.obj
+dataset_org_norm/test/Knob/00046424.obj
+dataset_org_norm/test/Knob/00046534.obj
+dataset_org_norm/test/Knob/00046228.obj
+dataset_org_norm/test/Knob/00046368.obj
+dataset_org_norm/test/Knob/00046073.obj
+dataset_org_norm/test/Knob/00046415.obj
+dataset_org_norm/test/Knob/00046456.obj
+dataset_org_norm/test/Knob/00046404.obj
+dataset_org_norm/test/Knob/00046182.obj
+dataset_org_norm/test/Knob/00046436.obj
+dataset_org_norm/test/Knob/00046423.obj
+dataset_org_norm/test/Knob/00046592.obj
+dataset_org_norm/test/Knob/00046277.obj
+dataset_org_norm/test/Knob/00046516.obj
+dataset_org_norm/test/Knob/00045989.obj
+dataset_org_norm/test/Knob/00046276.obj
+dataset_org_norm/test/Knob/00046473.obj
+dataset_org_norm/test/Knob/00046126.obj
+dataset_org_norm/test/Knob/00046074.obj
+dataset_org_norm/test/Knob/00046137.obj
+dataset_org_norm/test/Knob/00046086.obj
+dataset_org_norm/test/Knob/00046042.obj
+dataset_org_norm/test/Knob/00046510.obj
+dataset_org_norm/test/Knob/00046136.obj
+dataset_org_norm/test/Knob/00046553.obj
+dataset_org_norm/test/Knob/00046117.obj
+dataset_org_norm/test/Lockwashers/00048048.obj
+dataset_org_norm/test/Lockwashers/00048009.obj
+dataset_org_norm/test/Lockwashers/00048309.obj
+dataset_org_norm/test/Lockwashers/00048398.obj
+dataset_org_norm/test/Lockwashers/00047999.obj
+dataset_org_norm/test/Lockwashers/00047994.obj
+dataset_org_norm/test/Lockwashers/00048130.obj
+dataset_org_norm/test/Lockwashers/00048081.obj
+dataset_org_norm/test/Lockwashers/00048334.obj
+dataset_org_norm/test/Lockwashers/00048113.obj
+dataset_org_norm/test/Lockwashers/00048055.obj
+dataset_org_norm/test/Lockwashers/00048331.obj
+dataset_org_norm/test/Lockwashers/00048327.obj
+dataset_org_norm/test/Lockwashers/00048409.obj
+dataset_org_norm/test/Lockwashers/00048082.obj
+dataset_org_norm/test/Lockwashers/00048098.obj
+dataset_org_norm/test/Lockwashers/00047995.obj
+dataset_org_norm/test/Lockwashers/00048304.obj
+dataset_org_norm/test/Lockwashers/00048095.obj
+dataset_org_norm/test/Lockwashers/00048111.obj
+dataset_org_norm/test/Lockwashers/00048288.obj
+dataset_org_norm/test/Lockwashers/00048011.obj
+dataset_org_norm/test/Lockwashers/00048365.obj
+dataset_org_norm/test/Lockwashers/00048321.obj
+dataset_org_norm/test/Lockwashers/00048031.obj
+dataset_org_norm/test/Lockwashers/00048378.obj
+dataset_org_norm/test/Lockwashers/00048106.obj
+dataset_org_norm/test/Lockwashers/00048005.obj
+dataset_org_norm/test/Lockwashers/00048016.obj
+dataset_org_norm/test/Lockwashers/00048319.obj
+dataset_org_norm/test/Lockwashers/00048328.obj
+dataset_org_norm/test/Lockwashers/00048058.obj
+dataset_org_norm/test/Lockwashers/00048384.obj
+dataset_org_norm/test/Lockwashers/00048078.obj
+dataset_org_norm/test/Lockwashers/00048071.obj
+dataset_org_norm/test/Lockwashers/00048119.obj
+dataset_org_norm/test/Lockwashers/00048037.obj
+dataset_org_norm/test/Lockwashers/00048105.obj
+dataset_org_norm/test/Lockwashers/00048183.obj
+dataset_org_norm/test/Lockwashers/00048335.obj
+dataset_org_norm/test/Lockwashers/00048110.obj
+dataset_org_norm/test/Lockwashers/00048405.obj
+dataset_org_norm/test/Lockwashers/00048077.obj
+dataset_org_norm/test/Lockwashers/00048310.obj
+dataset_org_norm/test/Lockwashers/00048386.obj
+dataset_org_norm/test/Lockwashers/00048124.obj
+dataset_org_norm/test/Plugs/00049088.obj
+dataset_org_norm/test/Plugs/00049106.obj
+dataset_org_norm/test/Plugs/00049099.obj
+dataset_org_norm/test/Plugs/00049049.obj
+dataset_org_norm/test/Plugs/00049038.obj
+dataset_org_norm/test/Plugs/00049146.obj
+dataset_org_norm/test/Plugs/00049042.obj
+dataset_org_norm/test/Plugs/00049056.obj
+dataset_org_norm/test/Plugs/00049035.obj
+dataset_org_norm/test/Plugs/00048988.obj
+dataset_org_norm/test/Plugs/00049085.obj
+dataset_org_norm/test/Plugs/00049077.obj
+dataset_org_norm/test/Plugs/00049032.obj
+dataset_org_norm/test/Plugs/00049084.obj
+dataset_org_norm/test/Plugs/00049002.obj
+dataset_org_norm/test/Plugs/00049069.obj
+dataset_org_norm/test/Plugs/00049001.obj
+dataset_org_norm/test/Plugs/00049028.obj
+dataset_org_norm/test/Plugs/00049125.obj
+dataset_org_norm/test/Plugs/00049071.obj
+dataset_org_norm/test/Plugs/00049145.obj
+dataset_org_norm/test/Plugs/00048981.obj
+dataset_org_norm/test/Plugs/00049091.obj
+dataset_org_norm/test/Plugs/00049000.obj
+dataset_org_norm/test/Plugs/00049027.obj
+dataset_org_norm/test/Plugs/00049107.obj
+dataset_org_norm/test/Plugs/00049116.obj
+dataset_org_norm/test/Plugs/00049139.obj
+dataset_org_norm/test/Plugs/00049109.obj
+dataset_org_norm/test/Plugs/00049055.obj
+dataset_org_norm/test/Plugs/00049013.obj
+dataset_org_norm/test/Plugs/00049129.obj
+dataset_org_norm/test/Plugs/00049009.obj
+dataset_org_norm/test/Castor/00014956.obj
+dataset_org_norm/test/Castor/00014968.obj
+dataset_org_norm/test/Castor/00015016.obj
+dataset_org_norm/test/Castor/00015025.obj
+dataset_org_norm/test/Castor/00014959.obj
+dataset_org_norm/test/Pulleys/00049174.obj
+dataset_org_norm/test/Pulleys/00049249.obj
+dataset_org_norm/test/Pulleys/00049216.obj
+dataset_org_norm/test/Pulleys/00049240.obj
+dataset_org_norm/test/Pulleys/00049232.obj
+dataset_org_norm/test/Pulleys/00049234.obj
+dataset_org_norm/test/Pulleys/00049226.obj
+dataset_org_norm/test/Pulleys/00049247.obj
+dataset_org_norm/test/Pulleys/00049230.obj
+dataset_org_norm/test/Pulleys/00049250.obj
+dataset_org_norm/test/Pulleys/00049235.obj
+dataset_org_norm/test/Pulleys/00049255.obj
+dataset_org_norm/test/Pulleys/00049187.obj
+dataset_org_norm/test/Pulleys/00049227.obj
+dataset_org_norm/test/Rivet nut/00050985.obj
+dataset_org_norm/test/Rivet nut/00051021.obj
+dataset_org_norm/test/Rivet nut/00050983.obj
+dataset_org_norm/test/Rivet nut/00051008.obj
+dataset_org_norm/test/Rivet nut/00051000.obj
+dataset_org_norm/test/Rivet nut/00050992.obj
+dataset_org_norm/test/Rivet nut/00051024.obj
+dataset_org_norm/test/Rivet nut/00050995.obj
+dataset_org_norm/test/Rivet nut/00050980.obj
+dataset_org_norm/test/Wheel/00045733.obj
+dataset_org_norm/test/Wheel/00045766.obj
+dataset_org_norm/test/Wheel/00045713.obj
+dataset_org_norm/test/Wheel/00045932.obj
+dataset_org_norm/test/Wheel/00045700.obj
+dataset_org_norm/test/Wheel/00045773.obj
+dataset_org_norm/test/Wheel/00045691.obj
+dataset_org_norm/test/Wheel/00045910.obj
+dataset_org_norm/test/Wheel/00045793.obj
+dataset_org_norm/test/Wheel/00045703.obj
+dataset_org_norm/test/Wheel/00045881.obj
+dataset_org_norm/test/Wheel/00045796.obj
+dataset_org_norm/test/Wheel/00045845.obj
+dataset_org_norm/test/Wheel/00045851.obj
+dataset_org_norm/test/Wheel/00045911.obj
+dataset_org_norm/test/Wheel/00045921.obj
+dataset_org_norm/test/Wheel/00045774.obj
+dataset_org_norm/test/Wheel/00045853.obj
+dataset_org_norm/test/Wheel/00045890.obj
+dataset_org_norm/test/Wheel/00045887.obj
+dataset_org_norm/test/Roll pins/00051798.obj
+dataset_org_norm/test/Roll pins/00051782.obj
+dataset_org_norm/test/Roll pins/00051679.obj
+dataset_org_norm/test/Roll pins/00052112.obj
+dataset_org_norm/test/Roll pins/00052022.obj
+dataset_org_norm/test/Roll pins/00052086.obj
+dataset_org_norm/test/Roll pins/00051771.obj
+dataset_org_norm/test/Roll pins/00051704.obj
+dataset_org_norm/test/Roll pins/00052431.obj
+dataset_org_norm/test/Roll pins/00052317.obj
+dataset_org_norm/test/Roll pins/00052484.obj
+dataset_org_norm/test/Roll pins/00052398.obj
+dataset_org_norm/test/Roll pins/00051297.obj
+dataset_org_norm/test/Roll pins/00051957.obj
+dataset_org_norm/test/Roll pins/00052497.obj
+dataset_org_norm/test/Roll pins/00051054.obj
+dataset_org_norm/test/Roll pins/00051208.obj
+dataset_org_norm/test/Roll pins/00052045.obj
+dataset_org_norm/test/Roll pins/00052460.obj
+dataset_org_norm/test/Roll pins/00052221.obj
+dataset_org_norm/test/Roll pins/00051865.obj
+dataset_org_norm/test/Roll pins/00052259.obj
+dataset_org_norm/test/Roll pins/00052047.obj
+dataset_org_norm/test/Roll pins/00052606.obj
+dataset_org_norm/test/Roll pins/00051103.obj
+dataset_org_norm/test/Roll pins/00051171.obj
+dataset_org_norm/test/Roll pins/00052054.obj
+dataset_org_norm/test/Roll pins/00051405.obj
+dataset_org_norm/test/Roll pins/00051472.obj
+dataset_org_norm/test/Roll pins/00051830.obj
+dataset_org_norm/test/Roll pins/00051669.obj
+dataset_org_norm/test/Roll pins/00052575.obj
+dataset_org_norm/test/Roll pins/00051166.obj
+dataset_org_norm/test/Roll pins/00051303.obj
+dataset_org_norm/test/Roll pins/00051107.obj
+dataset_org_norm/test/Roll pins/00051900.obj
+dataset_org_norm/test/Roll pins/00052148.obj
+dataset_org_norm/test/Roll pins/00051083.obj
+dataset_org_norm/test/Roll pins/00051557.obj
+dataset_org_norm/test/Roll pins/00051964.obj
+dataset_org_norm/test/Roll pins/00051563.obj
+dataset_org_norm/test/Roll pins/00051202.obj
+dataset_org_norm/test/Roll pins/00052025.obj
+dataset_org_norm/test/Roll pins/00051352.obj
+dataset_org_norm/test/Roll pins/00051547.obj
+dataset_org_norm/test/Roll pins/00051664.obj
+dataset_org_norm/test/Roll pins/00052346.obj
+dataset_org_norm/test/Roll pins/00051413.obj
+dataset_org_norm/test/Roll pins/00051863.obj
+dataset_org_norm/test/Roll pins/00051197.obj
+dataset_org_norm/test/Roll pins/00051766.obj
+dataset_org_norm/test/Roll pins/00051286.obj
+dataset_org_norm/test/Roll pins/00051035.obj
+dataset_org_norm/test/Roll pins/00051228.obj
+dataset_org_norm/test/Roll pins/00052306.obj
+dataset_org_norm/test/Roll pins/00051625.obj
+dataset_org_norm/test/Roll pins/00052319.obj
+dataset_org_norm/test/Roll pins/00052195.obj
+dataset_org_norm/test/Roll pins/00051147.obj
+dataset_org_norm/test/Roll pins/00051029.obj
+dataset_org_norm/test/Roll pins/00051347.obj
+dataset_org_norm/test/Roll pins/00052199.obj
+dataset_org_norm/test/Roll pins/00051914.obj
+dataset_org_norm/test/Roll pins/00051651.obj
+dataset_org_norm/test/Roll pins/00051475.obj
+dataset_org_norm/test/Roll pins/00051411.obj
+dataset_org_norm/test/Roll pins/00051709.obj
+dataset_org_norm/test/Roll pins/00051220.obj
+dataset_org_norm/test/Roll pins/00052094.obj
+dataset_org_norm/test/Roll pins/00052357.obj
+dataset_org_norm/test/Roll pins/00051844.obj
+dataset_org_norm/test/Roll pins/00051105.obj
+dataset_org_norm/test/Roll pins/00052289.obj
+dataset_org_norm/test/Roll pins/00051422.obj
+dataset_org_norm/test/Roll pins/00051063.obj
+dataset_org_norm/test/Roll pins/00051360.obj
+dataset_org_norm/test/Roll pins/00052554.obj
+dataset_org_norm/test/Roll pins/00051668.obj
+dataset_org_norm/test/Roll pins/00052333.obj
+dataset_org_norm/test/Roll pins/00052551.obj
+dataset_org_norm/test/Roll pins/00051631.obj
+dataset_org_norm/test/Roll pins/00052256.obj
+dataset_org_norm/test/Roll pins/00052572.obj
+dataset_org_norm/test/Roll pins/00052125.obj
+dataset_org_norm/test/Roll pins/00051255.obj
+dataset_org_norm/test/Roll pins/00052316.obj
+dataset_org_norm/test/Roll pins/00052543.obj
+dataset_org_norm/test/Roll pins/00052550.obj
+dataset_org_norm/test/Roll pins/00052159.obj
+dataset_org_norm/test/Roll pins/00051326.obj
+dataset_org_norm/test/Roll pins/00051435.obj
+dataset_org_norm/test/Roll pins/00051843.obj
+dataset_org_norm/test/Roll pins/00051454.obj
+dataset_org_norm/test/Roll pins/00051965.obj
+dataset_org_norm/test/Roll pins/00051345.obj
+dataset_org_norm/test/Roll pins/00051999.obj
+dataset_org_norm/test/Roll pins/00051898.obj
+dataset_org_norm/test/Roll pins/00051516.obj
+dataset_org_norm/test/Roll pins/00051574.obj
+dataset_org_norm/test/Roll pins/00052084.obj
+dataset_org_norm/test/Socket/00030218.obj
+dataset_org_norm/test/Socket/00030393.obj
+dataset_org_norm/test/Socket/00029997.obj
+dataset_org_norm/test/Socket/00029845.obj
+dataset_org_norm/test/Socket/00029847.obj
+dataset_org_norm/test/Socket/00030566.obj
+dataset_org_norm/test/Socket/00030371.obj
+dataset_org_norm/test/Socket/00030450.obj
+dataset_org_norm/test/Socket/00030162.obj
+dataset_org_norm/test/Socket/00030455.obj
+dataset_org_norm/test/Socket/00030138.obj
+dataset_org_norm/test/Socket/00030619.obj
+dataset_org_norm/test/Socket/00030590.obj
+dataset_org_norm/test/Socket/00030129.obj
+dataset_org_norm/test/Socket/00030018.obj
+dataset_org_norm/test/Socket/00030401.obj
+dataset_org_norm/test/Socket/00030142.obj
+dataset_org_norm/test/Socket/00030030.obj
+dataset_org_norm/test/Socket/00030190.obj
+dataset_org_norm/test/Socket/00030283.obj
+dataset_org_norm/test/Socket/00029968.obj
+dataset_org_norm/test/Socket/00030257.obj
+dataset_org_norm/test/Socket/00030553.obj
+dataset_org_norm/test/Socket/00030417.obj
+dataset_org_norm/test/Socket/00029869.obj
+dataset_org_norm/test/Socket/00030166.obj
+dataset_org_norm/test/Socket/00029919.obj
+dataset_org_norm/test/Socket/00030603.obj
+dataset_org_norm/test/Socket/00030003.obj
+dataset_org_norm/test/Socket/00030522.obj
+dataset_org_norm/test/Socket/00030011.obj
+dataset_org_norm/test/Socket/00030103.obj
+dataset_org_norm/test/Socket/00030654.obj
+dataset_org_norm/test/Socket/00030021.obj
+dataset_org_norm/test/Socket/00030479.obj
+dataset_org_norm/test/Socket/00030491.obj
+dataset_org_norm/test/Socket/00030131.obj
+dataset_org_norm/test/Socket/00030055.obj
+dataset_org_norm/test/Socket/00030000.obj
+dataset_org_norm/test/Socket/00030392.obj
+dataset_org_norm/test/Socket/00030171.obj
+dataset_org_norm/test/Socket/00030399.obj
+dataset_org_norm/test/Socket/00030538.obj
+dataset_org_norm/test/Socket/00029904.obj
+dataset_org_norm/test/Socket/00029945.obj
+dataset_org_norm/test/Socket/00030104.obj
+dataset_org_norm/test/Socket/00030442.obj
+dataset_org_norm/test/Socket/00030057.obj
+dataset_org_norm/test/Socket/00029933.obj
+dataset_org_norm/test/Socket/00030421.obj
+dataset_org_norm/test/Socket/00030243.obj
+dataset_org_norm/test/Socket/00029971.obj
+dataset_org_norm/test/Socket/00030212.obj
+dataset_org_norm/test/Socket/00030648.obj
+dataset_org_norm/test/Socket/00030282.obj
+dataset_org_norm/test/Socket/00030630.obj
+dataset_org_norm/test/Socket/00030050.obj
+dataset_org_norm/test/Socket/00030472.obj
+dataset_org_norm/test/Socket/00030024.obj
+dataset_org_norm/test/Socket/00030145.obj
+dataset_org_norm/test/Socket/00029981.obj
+dataset_org_norm/test/Socket/00030086.obj
+dataset_org_norm/test/Socket/00029976.obj
+dataset_org_norm/test/Socket/00030196.obj
+dataset_org_norm/test/Socket/00030596.obj
+dataset_org_norm/test/Socket/00030149.obj
+dataset_org_norm/test/Socket/00030102.obj
+dataset_org_norm/test/Socket/00029853.obj
+dataset_org_norm/test/Socket/00029974.obj
+dataset_org_norm/test/Socket/00030236.obj
+dataset_org_norm/test/Socket/00030144.obj
+dataset_org_norm/test/Socket/00030172.obj
+dataset_org_norm/test/Socket/00030410.obj
+dataset_org_norm/test/Socket/00030427.obj
+dataset_org_norm/test/Socket/00030026.obj
+dataset_org_norm/test/Socket/00030407.obj
+dataset_org_norm/test/Socket/00030646.obj
+dataset_org_norm/test/Socket/00030281.obj
+dataset_org_norm/test/Socket/00029970.obj
+dataset_org_norm/test/Socket/00030321.obj
+dataset_org_norm/test/Socket/00029900.obj
+dataset_org_norm/test/Socket/00030267.obj
+dataset_org_norm/test/Socket/00030586.obj
+dataset_org_norm/test/Socket/00029824.obj
+dataset_org_norm/test/Socket/00030015.obj
+dataset_org_norm/test/Socket/00029825.obj
+dataset_org_norm/test/Socket/00030206.obj
+dataset_org_norm/test/Socket/00029949.obj
+dataset_org_norm/test/Socket/00029899.obj
+dataset_org_norm/test/Socket/00030217.obj
+dataset_org_norm/test/Socket/00030647.obj
+dataset_org_norm/test/Socket/00030592.obj
+dataset_org_norm/test/Socket/00030492.obj
+dataset_org_norm/test/Socket/00030615.obj
+dataset_org_norm/test/Socket/00029807.obj
+dataset_org_norm/test/Socket/00029985.obj
+dataset_org_norm/test/Socket/00030513.obj
+dataset_org_norm/test/Socket/00030222.obj
+dataset_org_norm/test/Socket/00029978.obj
+dataset_org_norm/test/Socket/00030042.obj
+dataset_org_norm/test/Hexagonal nuts/00026932.obj
+dataset_org_norm/test/Hexagonal nuts/00026879.obj
+dataset_org_norm/test/Hexagonal nuts/00026467.obj
+dataset_org_norm/test/Hexagonal nuts/00027200.obj
+dataset_org_norm/test/Hexagonal nuts/00026474.obj
+dataset_org_norm/test/Hexagonal nuts/00026913.obj
+dataset_org_norm/test/Hexagonal nuts/00026779.obj
+dataset_org_norm/test/Hexagonal nuts/00026854.obj
+dataset_org_norm/test/Hexagonal nuts/00026770.obj
+dataset_org_norm/test/Hexagonal nuts/00026800.obj
+dataset_org_norm/test/Hexagonal nuts/00026708.obj
+dataset_org_norm/test/Hexagonal nuts/00026632.obj
+dataset_org_norm/test/Hexagonal nuts/00026670.obj
+dataset_org_norm/test/Hexagonal nuts/00026452.obj
+dataset_org_norm/test/Hexagonal nuts/00026581.obj
+dataset_org_norm/test/Hexagonal nuts/00026460.obj
+dataset_org_norm/test/Hexagonal nuts/00026615.obj
+dataset_org_norm/test/Hexagonal nuts/00027348.obj
+dataset_org_norm/test/Hexagonal nuts/00027075.obj
+dataset_org_norm/test/Hexagonal nuts/00027356.obj
+dataset_org_norm/test/Hexagonal nuts/00026895.obj
+dataset_org_norm/test/Hexagonal nuts/00027363.obj
+dataset_org_norm/test/Hexagonal nuts/00026763.obj
+dataset_org_norm/test/Hexagonal nuts/00026658.obj
+dataset_org_norm/test/Hexagonal nuts/00026457.obj
+dataset_org_norm/test/Hexagonal nuts/00026651.obj
+dataset_org_norm/test/Hexagonal nuts/00027419.obj
+dataset_org_norm/test/Hexagonal nuts/00026757.obj
+dataset_org_norm/test/Hexagonal nuts/00027121.obj
+dataset_org_norm/test/Hexagonal nuts/00027094.obj
+dataset_org_norm/test/Hexagonal nuts/00027382.obj
+dataset_org_norm/test/Hexagonal nuts/00027333.obj
+dataset_org_norm/test/Hexagonal nuts/00027271.obj
+dataset_org_norm/test/Hexagonal nuts/00026959.obj
+dataset_org_norm/test/Hexagonal nuts/00026831.obj
+dataset_org_norm/test/Hexagonal nuts/00026495.obj
+dataset_org_norm/test/Hexagonal nuts/00026843.obj
+dataset_org_norm/test/Hexagonal nuts/00026806.obj
+dataset_org_norm/test/Hexagonal nuts/00027062.obj
+dataset_org_norm/test/Hexagonal nuts/00026492.obj
+dataset_org_norm/test/Hexagonal nuts/00026547.obj
+dataset_org_norm/test/Hexagonal nuts/00027460.obj
+dataset_org_norm/test/Hexagonal nuts/00027274.obj
+dataset_org_norm/test/Hexagonal nuts/00027326.obj
+dataset_org_norm/test/Hexagonal nuts/00026660.obj
+dataset_org_norm/test/Hexagonal nuts/00026907.obj
+dataset_org_norm/test/Hexagonal nuts/00026886.obj
+dataset_org_norm/test/Hexagonal nuts/00027022.obj
+dataset_org_norm/test/Hexagonal nuts/00026870.obj
+dataset_org_norm/test/Hexagonal nuts/00027432.obj
+dataset_org_norm/test/Hexagonal nuts/00027222.obj
+dataset_org_norm/test/Hexagonal nuts/00026922.obj
+dataset_org_norm/test/Hexagonal nuts/00027331.obj
+dataset_org_norm/test/Hexagonal nuts/00026754.obj
+dataset_org_norm/test/Hexagonal nuts/00027167.obj
+dataset_org_norm/test/Hexagonal nuts/00026752.obj
+dataset_org_norm/test/Hexagonal nuts/00027381.obj
+dataset_org_norm/test/Hexagonal nuts/00026966.obj
+dataset_org_norm/test/Hexagonal nuts/00027354.obj
+dataset_org_norm/test/Hexagonal nuts/00026780.obj
+dataset_org_norm/test/Hexagonal nuts/00027308.obj
+dataset_org_norm/test/Hexagonal nuts/00027034.obj
+dataset_org_norm/test/Hexagonal nuts/00027385.obj
+dataset_org_norm/test/Hexagonal nuts/00026833.obj
+dataset_org_norm/test/Hexagonal nuts/00026443.obj
+dataset_org_norm/test/Hexagonal nuts/00026840.obj
+dataset_org_norm/test/Hexagonal nuts/00027024.obj
+dataset_org_norm/test/Hexagonal nuts/00027259.obj
+dataset_org_norm/test/Hexagonal nuts/00026960.obj
+dataset_org_norm/test/Hexagonal nuts/00026524.obj
+dataset_org_norm/test/Hexagonal nuts/00027183.obj
+dataset_org_norm/test/Hexagonal nuts/00026956.obj
+dataset_org_norm/test/Hexagonal nuts/00027454.obj
+dataset_org_norm/test/Hexagonal nuts/00026473.obj
+dataset_org_norm/test/Hexagonal nuts/00026692.obj
+dataset_org_norm/test/Hexagonal nuts/00027341.obj
+dataset_org_norm/test/Hexagonal nuts/00027367.obj
+dataset_org_norm/test/Hexagonal nuts/00026858.obj
+dataset_org_norm/test/Hexagonal nuts/00026640.obj
+dataset_org_norm/test/Hexagonal nuts/00026723.obj
+dataset_org_norm/test/Hexagonal nuts/00026498.obj
+dataset_org_norm/test/Hexagonal nuts/00026438.obj
+dataset_org_norm/test/Hexagonal nuts/00027033.obj
+dataset_org_norm/test/Hexagonal nuts/00027097.obj
+dataset_org_norm/test/Hexagonal nuts/00027284.obj
+dataset_org_norm/test/Hexagonal nuts/00027252.obj
+dataset_org_norm/test/Hexagonal nuts/00026698.obj
+dataset_org_norm/test/Hexagonal nuts/00026464.obj
+dataset_org_norm/test/Hexagonal nuts/00026600.obj
+dataset_org_norm/test/Hexagonal nuts/00027208.obj
+dataset_org_norm/test/Hexagonal nuts/00027437.obj
+dataset_org_norm/test/Hexagonal nuts/00026903.obj
+dataset_org_norm/test/Hexagonal nuts/00027320.obj
+dataset_org_norm/test/Hexagonal nuts/00026737.obj
+dataset_org_norm/test/Hexagonal nuts/00027361.obj
+dataset_org_norm/test/Hexagonal nuts/00026502.obj
+dataset_org_norm/test/Hexagonal nuts/00027330.obj
+dataset_org_norm/test/Hexagonal nuts/00027309.obj
+dataset_org_norm/test/Hexagonal nuts/00026558.obj
+dataset_org_norm/test/Hexagonal nuts/00026466.obj
+dataset_org_norm/test/Split pins/00030992.obj
+dataset_org_norm/test/Split pins/00031166.obj
+dataset_org_norm/test/Split pins/00030842.obj
+dataset_org_norm/test/Split pins/00030830.obj
+dataset_org_norm/test/Split pins/00031220.obj
+dataset_org_norm/test/Split pins/00030835.obj
+dataset_org_norm/test/Split pins/00031159.obj
+dataset_org_norm/test/Split pins/00031181.obj
+dataset_org_norm/test/Split pins/00031135.obj
+dataset_org_norm/test/Split pins/00031047.obj
+dataset_org_norm/test/Split pins/00031113.obj
+dataset_org_norm/test/Split pins/00030780.obj
+dataset_org_norm/test/Split pins/00031035.obj
+dataset_org_norm/test/Split pins/00031065.obj
+dataset_org_norm/test/Split pins/00030856.obj
+dataset_org_norm/test/Split pins/00031081.obj
+dataset_org_norm/test/Split pins/00031176.obj
+dataset_org_norm/test/Split pins/00031246.obj
+dataset_org_norm/test/Split pins/00030789.obj
+dataset_org_norm/test/Split pins/00031201.obj
+dataset_org_norm/test/Split pins/00030971.obj
+dataset_org_norm/test/Split pins/00031046.obj
+dataset_org_norm/test/Split pins/00030872.obj
+dataset_org_norm/test/Split pins/00031143.obj
+dataset_org_norm/test/Split pins/00031120.obj
+dataset_org_norm/test/Split pins/00030947.obj
+dataset_org_norm/test/Split pins/00030827.obj
+dataset_org_norm/test/Split pins/00030929.obj
+dataset_org_norm/test/Split pins/00030803.obj
+dataset_org_norm/test/Split pins/00031148.obj
+dataset_org_norm/test/Split pins/00031161.obj
+dataset_org_norm/test/Split pins/00030998.obj
+dataset_org_norm/test/Split pins/00030990.obj
+dataset_org_norm/test/Split pins/00031104.obj
+dataset_org_norm/test/Split pins/00031024.obj
+dataset_org_norm/test/Split pins/00030969.obj
+dataset_org_norm/test/Split pins/00030987.obj
+dataset_org_norm/test/Split pins/00030817.obj
+dataset_org_norm/test/Split pins/00031100.obj
+dataset_org_norm/test/Split pins/00031088.obj
+dataset_org_norm/test/Split pins/00031044.obj
+dataset_org_norm/test/Split pins/00031158.obj
+dataset_org_norm/test/Split pins/00031032.obj
+dataset_org_norm/test/Split pins/00030928.obj
+dataset_org_norm/test/Split pins/00031147.obj
+dataset_org_norm/test/Split pins/00031109.obj
+dataset_org_norm/test/Split pins/00030925.obj
+dataset_org_norm/test/Split pins/00031108.obj
+dataset_org_norm/test/Split pins/00031009.obj
+dataset_org_norm/test/Split pins/00030933.obj
+dataset_org_norm/test/Split pins/00030874.obj
+dataset_org_norm/test/Split pins/00031068.obj
+dataset_org_norm/test/Split pins/00031064.obj
+dataset_org_norm/test/Split pins/00030793.obj
+dataset_org_norm/test/Split pins/00030889.obj
+dataset_org_norm/test/Split pins/00031127.obj
+dataset_org_norm/test/Split pins/00031115.obj
+dataset_org_norm/test/Split pins/00030886.obj
+dataset_org_norm/test/Split pins/00030924.obj
+dataset_org_norm/test/Split pins/00031216.obj
+dataset_org_norm/test/Split pins/00031199.obj
+dataset_org_norm/test/Split pins/00031218.obj
+dataset_org_norm/test/Split pins/00031086.obj
+dataset_org_norm/test/Split pins/00030943.obj
+dataset_org_norm/test/Split pins/00030885.obj
+dataset_org_norm/test/Split pins/00030816.obj
+dataset_org_norm/test/Split pins/00031205.obj
+dataset_org_norm/test/Split pins/00031190.obj
+dataset_org_norm/test/Split pins/00031222.obj
+dataset_org_norm/test/Split pins/00031036.obj
+dataset_org_norm/test/Split pins/00031232.obj
+dataset_org_norm/test/Split pins/00031229.obj
+dataset_org_norm/test/Split pins/00031171.obj
+dataset_org_norm/test/Split pins/00030811.obj
+dataset_org_norm/test/Split pins/00030821.obj
+dataset_org_norm/test/Split pins/00031231.obj
+dataset_org_norm/test/Split pins/00030975.obj
+dataset_org_norm/test/Split pins/00031162.obj
+dataset_org_norm/test/Split pins/00031015.obj
+dataset_org_norm/test/Split pins/00031224.obj
+dataset_org_norm/test/Split pins/00030898.obj
+dataset_org_norm/test/Split pins/00030995.obj
+dataset_org_norm/test/Split pins/00030917.obj
+dataset_org_norm/test/Split pins/00031185.obj
+dataset_org_norm/test/Split pins/00030775.obj
+dataset_org_norm/test/Split pins/00030867.obj
+dataset_org_norm/test/Split pins/00031021.obj
+dataset_org_norm/test/Split pins/00031102.obj
+dataset_org_norm/test/Split pins/00030869.obj
+dataset_org_norm/test/Split pins/00030785.obj
+dataset_org_norm/test/Split pins/00031034.obj
+dataset_org_norm/test/Split pins/00030961.obj
+dataset_org_norm/test/Split pins/00030887.obj
+dataset_org_norm/test/Setscrew/00029000.obj
+dataset_org_norm/test/Setscrew/00028192.obj
+dataset_org_norm/test/Setscrew/00028260.obj
+dataset_org_norm/test/Setscrew/00028337.obj
+dataset_org_norm/test/Setscrew/00028473.obj
+dataset_org_norm/test/Setscrew/00027975.obj
+dataset_org_norm/test/Setscrew/00028814.obj
+dataset_org_norm/test/Setscrew/00027899.obj
+dataset_org_norm/test/Setscrew/00028114.obj
+dataset_org_norm/test/Setscrew/00027985.obj
+dataset_org_norm/test/Setscrew/00028839.obj
+dataset_org_norm/test/Setscrew/00028217.obj
+dataset_org_norm/test/Setscrew/00027987.obj
+dataset_org_norm/test/Setscrew/00028280.obj
+dataset_org_norm/test/Setscrew/00028942.obj
+dataset_org_norm/test/Setscrew/00028652.obj
+dataset_org_norm/test/Setscrew/00029098.obj
+dataset_org_norm/test/Setscrew/00027805.obj
+dataset_org_norm/test/Setscrew/00028102.obj
+dataset_org_norm/test/Setscrew/00028047.obj
+dataset_org_norm/test/Setscrew/00027820.obj
+dataset_org_norm/test/Setscrew/00028690.obj
+dataset_org_norm/test/Setscrew/00029023.obj
+dataset_org_norm/test/Setscrew/00028445.obj
+dataset_org_norm/test/Setscrew/00028985.obj
+dataset_org_norm/test/Setscrew/00028184.obj
+dataset_org_norm/test/Setscrew/00028803.obj
+dataset_org_norm/test/Setscrew/00028994.obj
+dataset_org_norm/test/Setscrew/00028490.obj
+dataset_org_norm/test/Setscrew/00028124.obj
+dataset_org_norm/test/Setscrew/00028945.obj
+dataset_org_norm/test/Setscrew/00027952.obj
+dataset_org_norm/test/Setscrew/00028773.obj
+dataset_org_norm/test/Setscrew/00028382.obj
+dataset_org_norm/test/Setscrew/00028887.obj
+dataset_org_norm/test/Setscrew/00028290.obj
+dataset_org_norm/test/Setscrew/00028805.obj
+dataset_org_norm/test/Setscrew/00028268.obj
+dataset_org_norm/test/Setscrew/00027960.obj
+dataset_org_norm/test/Setscrew/00029091.obj
+dataset_org_norm/test/Setscrew/00028475.obj
+dataset_org_norm/test/Setscrew/00028340.obj
+dataset_org_norm/test/Setscrew/00027823.obj
+dataset_org_norm/test/Setscrew/00028009.obj
+dataset_org_norm/test/Setscrew/00029006.obj
+dataset_org_norm/test/Setscrew/00028764.obj
+dataset_org_norm/test/Setscrew/00028589.obj
+dataset_org_norm/test/Setscrew/00028528.obj
+dataset_org_norm/test/Setscrew/00028116.obj
+dataset_org_norm/test/Setscrew/00028358.obj
+dataset_org_norm/test/Setscrew/00028806.obj
+dataset_org_norm/test/Setscrew/00029037.obj
+dataset_org_norm/test/Setscrew/00028327.obj
+dataset_org_norm/test/Setscrew/00027913.obj
+dataset_org_norm/test/Setscrew/00028881.obj
+dataset_org_norm/test/Setscrew/00028995.obj
+dataset_org_norm/test/Setscrew/00028843.obj
+dataset_org_norm/test/Setscrew/00028166.obj
+dataset_org_norm/test/Setscrew/00027808.obj
+dataset_org_norm/test/Setscrew/00028021.obj
+dataset_org_norm/test/Setscrew/00028605.obj
+dataset_org_norm/test/Setscrew/00028150.obj
+dataset_org_norm/test/Setscrew/00029087.obj
+dataset_org_norm/test/Setscrew/00028293.obj
+dataset_org_norm/test/Setscrew/00028662.obj
+dataset_org_norm/test/Setscrew/00028983.obj
+dataset_org_norm/test/Setscrew/00028107.obj
+dataset_org_norm/test/Setscrew/00028094.obj
+dataset_org_norm/test/Setscrew/00028484.obj
+dataset_org_norm/test/Setscrew/00028769.obj
+dataset_org_norm/test/Setscrew/00027787.obj
+dataset_org_norm/test/Setscrew/00029043.obj
+dataset_org_norm/test/Setscrew/00028322.obj
+dataset_org_norm/test/Setscrew/00027844.obj
+dataset_org_norm/test/Setscrew/00027789.obj
+dataset_org_norm/test/Setscrew/00028520.obj
+dataset_org_norm/test/Setscrew/00028656.obj
+dataset_org_norm/test/Setscrew/00027794.obj
+dataset_org_norm/test/Setscrew/00028421.obj
+dataset_org_norm/test/Setscrew/00028743.obj
+dataset_org_norm/test/Setscrew/00028788.obj
+dataset_org_norm/test/Setscrew/00028968.obj
+dataset_org_norm/test/Setscrew/00029014.obj
+dataset_org_norm/test/Setscrew/00028753.obj
+dataset_org_norm/test/Setscrew/00027922.obj
+dataset_org_norm/test/Setscrew/00028684.obj
+dataset_org_norm/test/Setscrew/00029065.obj
+dataset_org_norm/test/Setscrew/00028083.obj
+dataset_org_norm/test/Setscrew/00028489.obj
+dataset_org_norm/test/Setscrew/00028182.obj
+dataset_org_norm/test/Setscrew/00028997.obj
+dataset_org_norm/test/Setscrew/00027924.obj
+dataset_org_norm/test/Setscrew/00028832.obj
+dataset_org_norm/test/Setscrew/00027883.obj
+dataset_org_norm/test/Setscrew/00028649.obj
+dataset_org_norm/test/Setscrew/00028234.obj
+dataset_org_norm/test/Setscrew/00027976.obj
+dataset_org_norm/test/Setscrew/00028847.obj
+dataset_org_norm/test/Setscrew/00028227.obj
+dataset_org_norm/test/Setscrew/00027891.obj
+dataset_org_norm/test/Snap rings/00029514.obj
+dataset_org_norm/test/Snap rings/00029363.obj
+dataset_org_norm/test/Snap rings/00029523.obj
+dataset_org_norm/test/Snap rings/00029703.obj
+dataset_org_norm/test/Snap rings/00029736.obj
+dataset_org_norm/test/Snap rings/00029715.obj
+dataset_org_norm/test/Snap rings/00029448.obj
+dataset_org_norm/test/Snap rings/00029212.obj
+dataset_org_norm/test/Snap rings/00029521.obj
+dataset_org_norm/test/Snap rings/00029562.obj
+dataset_org_norm/test/Snap rings/00029316.obj
+dataset_org_norm/test/Snap rings/00029347.obj
+dataset_org_norm/test/Snap rings/00029680.obj
+dataset_org_norm/test/Snap rings/00029468.obj
+dataset_org_norm/test/Snap rings/00029625.obj
+dataset_org_norm/test/Snap rings/00029440.obj
+dataset_org_norm/test/Snap rings/00029580.obj
+dataset_org_norm/test/Snap rings/00029667.obj
+dataset_org_norm/test/Snap rings/00029283.obj
+dataset_org_norm/test/Snap rings/00029274.obj
+dataset_org_norm/test/Snap rings/00029372.obj
+dataset_org_norm/test/Snap rings/00029366.obj
+dataset_org_norm/test/Snap rings/00029394.obj
+dataset_org_norm/test/Snap rings/00029244.obj
+dataset_org_norm/test/Snap rings/00029695.obj
+dataset_org_norm/test/Snap rings/00029416.obj
+dataset_org_norm/test/Snap rings/00029640.obj
+dataset_org_norm/test/Snap rings/00029648.obj
+dataset_org_norm/test/Snap rings/00029217.obj
+dataset_org_norm/test/Snap rings/00029332.obj
+dataset_org_norm/test/Snap rings/00029574.obj
+dataset_org_norm/test/Snap rings/00029592.obj
+dataset_org_norm/test/Snap rings/00029246.obj
+dataset_org_norm/test/Snap rings/00029237.obj
+dataset_org_norm/test/Snap rings/00029681.obj
+dataset_org_norm/test/Snap rings/00029439.obj
+dataset_org_norm/test/Snap rings/00029709.obj
+dataset_org_norm/test/Snap rings/00029761.obj
+dataset_org_norm/test/Snap rings/00029294.obj
+dataset_org_norm/test/Snap rings/00029789.obj
+dataset_org_norm/test/Snap rings/00029297.obj
+dataset_org_norm/test/Snap rings/00029343.obj
+dataset_org_norm/test/Snap rings/00029668.obj
+dataset_org_norm/test/Snap rings/00029407.obj
+dataset_org_norm/test/Snap rings/00029365.obj
+dataset_org_norm/test/Snap rings/00029257.obj
+dataset_org_norm/test/Snap rings/00029718.obj
+dataset_org_norm/test/Snap rings/00029731.obj
+dataset_org_norm/test/Snap rings/00029360.obj
+dataset_org_norm/test/Snap rings/00029565.obj
+dataset_org_norm/test/Snap rings/00029472.obj
+dataset_org_norm/test/Snap rings/00029361.obj
+dataset_org_norm/test/Snap rings/00029429.obj
+dataset_org_norm/test/Snap rings/00029555.obj
+dataset_org_norm/test/Snap rings/00029399.obj
+dataset_org_norm/test/Snap rings/00029651.obj
+dataset_org_norm/test/Snap rings/00029219.obj
+dataset_org_norm/test/Snap rings/00029459.obj
+dataset_org_norm/test/Snap rings/00029575.obj
+dataset_org_norm/test/Snap rings/00029587.obj
+dataset_org_norm/test/Snap rings/00029631.obj
+dataset_org_norm/test/Snap rings/00029707.obj
+dataset_org_norm/test/Snap rings/00029803.obj
+dataset_org_norm/test/Snap rings/00029518.obj
+dataset_org_norm/test/Snap rings/00029457.obj
+dataset_org_norm/test/Snap rings/00029674.obj
+dataset_org_norm/test/Snap rings/00029753.obj
+dataset_org_norm/test/Snap rings/00029349.obj
+dataset_org_norm/test/Snap rings/00029485.obj
+dataset_org_norm/test/Snap rings/00029241.obj
+dataset_org_norm/test/Snap rings/00029677.obj
+dataset_org_norm/test/Snap rings/00029536.obj
+dataset_org_norm/test/Snap rings/00029208.obj
+dataset_org_norm/test/Snap rings/00029307.obj
+dataset_org_norm/test/Snap rings/00029202.obj
+dataset_org_norm/test/Snap rings/00029623.obj
+dataset_org_norm/test/Snap rings/00029684.obj
+dataset_org_norm/test/Snap rings/00029304.obj
+dataset_org_norm/test/Snap rings/00029768.obj
+dataset_org_norm/test/Snap rings/00029309.obj
+dataset_org_norm/test/Snap rings/00029206.obj
+dataset_org_norm/test/Snap rings/00029386.obj
+dataset_org_norm/test/Snap rings/00029744.obj
+dataset_org_norm/test/Snap rings/00029227.obj
+dataset_org_norm/test/Snap rings/00029579.obj
+dataset_org_norm/test/Snap rings/00029196.obj
+dataset_org_norm/test/Snap rings/00029791.obj
+dataset_org_norm/test/Snap rings/00029396.obj
+dataset_org_norm/test/Snap rings/00029698.obj
+dataset_org_norm/test/Snap rings/00029659.obj
+dataset_org_norm/test/Snap rings/00029704.obj
+dataset_org_norm/test/Snap rings/00029676.obj
+dataset_org_norm/test/Snap rings/00029282.obj
+dataset_org_norm/test/Snap rings/00029590.obj
+dataset_org_norm/test/Snap rings/00029618.obj
+dataset_org_norm/test/Snap rings/00029449.obj
+dataset_org_norm/test/Snap rings/00029629.obj
+dataset_org_norm/test/Snap rings/00029576.obj
+dataset_org_norm/test/Snap rings/00029229.obj
+dataset_org_norm/test/Snap rings/00029474.obj
+dataset_org_norm/test/Locknuts/00047827.obj
+dataset_org_norm/test/Locknuts/00047839.obj
+dataset_org_norm/test/Locknuts/00047857.obj
+dataset_org_norm/test/Locknuts/00047802.obj
+dataset_org_norm/test/Locknuts/00047783.obj
+dataset_org_norm/test/Locknuts/00047901.obj
+dataset_org_norm/test/Locknuts/00047967.obj
+dataset_org_norm/test/Locknuts/00047876.obj
+dataset_org_norm/test/Locknuts/00047838.obj
+dataset_org_norm/test/Locknuts/00047928.obj
+dataset_org_norm/test/Locknuts/00047953.obj
+dataset_org_norm/test/Locknuts/00047807.obj
+dataset_org_norm/test/Locknuts/00047786.obj
+dataset_org_norm/test/Locknuts/00047887.obj
+dataset_org_norm/test/Locknuts/00047952.obj
+dataset_org_norm/test/Locknuts/00047852.obj
+dataset_org_norm/test/Locknuts/00047842.obj
+dataset_org_norm/test/Locknuts/00047812.obj
+dataset_org_norm/test/Locknuts/00047891.obj
+dataset_org_norm/test/Locknuts/00047823.obj
+dataset_org_norm/test/Locknuts/00047756.obj
+dataset_org_norm/test/Locknuts/00047772.obj
+dataset_org_norm/test/Locknuts/00047913.obj
+dataset_org_norm/test/Locknuts/00047894.obj
+dataset_org_norm/test/Locknuts/00047769.obj
+dataset_org_norm/test/Locknuts/00047902.obj
+dataset_org_norm/test/Locknuts/00047843.obj
+dataset_org_norm/test/Locknuts/00047787.obj
+dataset_org_norm/test/Locknuts/00047777.obj
+dataset_org_norm/test/Locknuts/00047881.obj
+dataset_org_norm/test/Locknuts/00047885.obj
+dataset_org_norm/test/Locknuts/00047776.obj
+dataset_org_norm/test/Locknuts/00047815.obj
+dataset_org_norm/test/Locknuts/00047795.obj
+dataset_org_norm/test/Locknuts/00047882.obj
+dataset_org_norm/test/Locknuts/00047903.obj
+dataset_org_norm/test/Locknuts/00047908.obj
+dataset_org_norm/test/Locknuts/00047792.obj
+dataset_org_norm/test/Locknuts/00047872.obj
+dataset_org_norm/test/Locknuts/00047805.obj
+dataset_org_norm/test/Locknuts/00047962.obj
+dataset_org_norm/test/Locknuts/00047906.obj
+dataset_org_norm/test/Locknuts/00047974.obj
+dataset_org_norm/test/Locknuts/00047850.obj
+dataset_org_norm/test/Locknuts/00047862.obj
+dataset_org_norm/test/Locknuts/00047774.obj
+dataset_org_norm/test/Locknuts/00047767.obj
+dataset_org_norm/test/Locknuts/00047919.obj
+dataset_org_norm/test/Valve/00044766.obj
+dataset_org_norm/test/Valve/00044730.obj
+dataset_org_norm/test/Valve/00044749.obj
+dataset_org_norm/test/Radial contact ball bearings/00050416.obj
+dataset_org_norm/test/Radial contact ball bearings/00050201.obj
+dataset_org_norm/test/Radial contact ball bearings/00050252.obj
+dataset_org_norm/test/Radial contact ball bearings/00050430.obj
+dataset_org_norm/test/Radial contact ball bearings/00050456.obj
+dataset_org_norm/test/Radial contact ball bearings/00050455.obj
+dataset_org_norm/test/Plates, circulate plates/00048743.obj
+dataset_org_norm/test/Plates, circulate plates/00048622.obj
+dataset_org_norm/test/Plates, circulate plates/00048917.obj
+dataset_org_norm/test/Plates, circulate plates/00048782.obj
+dataset_org_norm/test/Plates, circulate plates/00048823.obj
+dataset_org_norm/test/Plates, circulate plates/00048742.obj
+dataset_org_norm/test/Plates, circulate plates/00048925.obj
+dataset_org_norm/test/Plates, circulate plates/00048629.obj
+dataset_org_norm/test/Plates, circulate plates/00048815.obj
+dataset_org_norm/test/Plates, circulate plates/00048721.obj
+dataset_org_norm/test/Plates, circulate plates/00048633.obj
+dataset_org_norm/test/Plates, circulate plates/00048977.obj
+dataset_org_norm/test/Plates, circulate plates/00048772.obj
+dataset_org_norm/test/Plates, circulate plates/00048915.obj
+dataset_org_norm/test/Plates, circulate plates/00048880.obj
+dataset_org_norm/test/Plates, circulate plates/00048844.obj
+dataset_org_norm/test/Plates, circulate plates/00048665.obj
+dataset_org_norm/test/Plates, circulate plates/00048849.obj
+dataset_org_norm/test/Plates, circulate plates/00048664.obj
+dataset_org_norm/test/Plates, circulate plates/00048923.obj
+dataset_org_norm/test/Plates, circulate plates/00048626.obj
+dataset_org_norm/test/Plates, circulate plates/00048638.obj
+dataset_org_norm/test/Plates, circulate plates/00048738.obj
+dataset_org_norm/test/Plates, circulate plates/00048792.obj
+dataset_org_norm/test/Plates, circulate plates/00048893.obj
+dataset_org_norm/test/Plates, circulate plates/00048763.obj
+dataset_org_norm/test/Plates, circulate plates/00048912.obj
+dataset_org_norm/test/Plates, circulate plates/00048787.obj
+dataset_org_norm/test/Plates, circulate plates/00048841.obj
+dataset_org_norm/test/Plates, circulate plates/00048814.obj
+dataset_org_norm/test/Plates, circulate plates/00048712.obj
+dataset_org_norm/test/Plates, circulate plates/00048938.obj
+dataset_org_norm/test/Plates, circulate plates/00048807.obj
+dataset_org_norm/test/Plates, circulate plates/00048737.obj
+dataset_org_norm/test/Plates, circulate plates/00048769.obj
+dataset_org_norm/test/Plates, circulate plates/00048820.obj
+dataset_org_norm/test/Plates, circulate plates/00048922.obj
+dataset_org_norm/test/Plates, circulate plates/00048636.obj
+dataset_org_norm/test/Plates, circulate plates/00048876.obj
+dataset_org_norm/test/Plates, circulate plates/00048719.obj
+dataset_org_norm/test/Plates, circulate plates/00048786.obj
+dataset_org_norm/test/Plates, circulate plates/00048797.obj
+dataset_org_norm/test/Plates, circulate plates/00048916.obj
+dataset_org_norm/test/Plates, circulate plates/00048829.obj
+dataset_org_norm/test/Plates, circulate plates/00048842.obj
+dataset_org_norm/test/Plates, circulate plates/00048740.obj
+dataset_org_norm/test/Plates, circulate plates/00048932.obj
+dataset_org_norm/test/Plates, circulate plates/00048648.obj
+dataset_org_norm/test/Plates, circulate plates/00048858.obj
+dataset_org_norm/test/Plates, circulate plates/00048698.obj
+dataset_org_norm/test/Plates, circulate plates/00048970.obj
+dataset_org_norm/test/Plates, circulate plates/00048948.obj
+dataset_org_norm/test/Plates, circulate plates/00048654.obj
+dataset_org_norm/test/Plates, circulate plates/00048965.obj
+dataset_org_norm/test/Plates, circulate plates/00048706.obj
+dataset_org_norm/test/Plates, circulate plates/00048794.obj
+dataset_org_norm/test/Plates, circulate plates/00048730.obj
+dataset_org_norm/test/Plates, circulate plates/00048869.obj
+dataset_org_norm/test/Plates, circulate plates/00048936.obj
+dataset_org_norm/test/Plates, circulate plates/00048747.obj
+dataset_org_norm/test/Plates, circulate plates/00048857.obj
+dataset_org_norm/test/Plates, circulate plates/00048680.obj
+dataset_org_norm/test/Plates, circulate plates/00048910.obj
+dataset_org_norm/test/Plates, circulate plates/00048943.obj
+dataset_org_norm/test/Plates, circulate plates/00048624.obj
+dataset_org_norm/test/Plates, circulate plates/00048964.obj
+dataset_org_norm/test/Plates, circulate plates/00048726.obj
+dataset_org_norm/test/Plates, circulate plates/00048810.obj
+dataset_org_norm/test/Plates, circulate plates/00048821.obj
+dataset_org_norm/test/Plates, circulate plates/00048717.obj
+dataset_org_norm/test/Spring washers/00031274.obj
+dataset_org_norm/test/Spring washers/00031255.obj
+dataset_org_norm/test/Spring washers/00031279.obj
+dataset_org_norm/test/Spring washers/00031278.obj
+dataset_org_norm/test/Spring washers/00031269.obj
+dataset_org_norm/test/Spring washers/00031281.obj
+dataset_org_norm/test/Spring washers/00031250.obj
+dataset_org_norm/test/Spring washers/00031248.obj
+dataset_org_norm/test/Spring washers/00031259.obj
+dataset_org_norm/test/Spring washers/00031253.obj
+dataset_org_norm/test/Spring washers/00031300.obj
+dataset_org_norm/test/Conventional rivets/00015414.obj
+dataset_org_norm/test/Conventional rivets/00015978.obj
+dataset_org_norm/test/Conventional rivets/00016529.obj
+dataset_org_norm/test/Conventional rivets/00017818.obj
+dataset_org_norm/test/Conventional rivets/00016069.obj
+dataset_org_norm/test/Conventional rivets/00017652.obj
+dataset_org_norm/test/Conventional rivets/00017046.obj
+dataset_org_norm/test/Conventional rivets/00016612.obj
+dataset_org_norm/test/Conventional rivets/00019133.obj
+dataset_org_norm/test/Conventional rivets/00018122.obj
+dataset_org_norm/test/Conventional rivets/00018289.obj
+dataset_org_norm/test/Conventional rivets/00015811.obj
+dataset_org_norm/test/Conventional rivets/00017455.obj
+dataset_org_norm/test/Conventional rivets/00016703.obj
+dataset_org_norm/test/Conventional rivets/00015468.obj
+dataset_org_norm/test/Conventional rivets/00018220.obj
+dataset_org_norm/test/Conventional rivets/00016572.obj
+dataset_org_norm/test/Conventional rivets/00015976.obj
+dataset_org_norm/test/Conventional rivets/00016829.obj
+dataset_org_norm/test/Conventional rivets/00018939.obj
+dataset_org_norm/test/Conventional rivets/00016164.obj
+dataset_org_norm/test/Conventional rivets/00018136.obj
+dataset_org_norm/test/Conventional rivets/00015935.obj
+dataset_org_norm/test/Conventional rivets/00019088.obj
+dataset_org_norm/test/Conventional rivets/00015650.obj
+dataset_org_norm/test/Conventional rivets/00017126.obj
+dataset_org_norm/test/Conventional rivets/00018123.obj
+dataset_org_norm/test/Conventional rivets/00016950.obj
+dataset_org_norm/test/Conventional rivets/00016666.obj
+dataset_org_norm/test/Conventional rivets/00017034.obj
+dataset_org_norm/test/Conventional rivets/00017178.obj
+dataset_org_norm/test/Conventional rivets/00017215.obj
+dataset_org_norm/test/Conventional rivets/00015658.obj
+dataset_org_norm/test/Conventional rivets/00015645.obj
+dataset_org_norm/test/Conventional rivets/00017617.obj
+dataset_org_norm/test/Conventional rivets/00016985.obj
+dataset_org_norm/test/Conventional rivets/00018141.obj
+dataset_org_norm/test/Conventional rivets/00016895.obj
+dataset_org_norm/test/Conventional rivets/00018293.obj
+dataset_org_norm/test/Conventional rivets/00018159.obj
+dataset_org_norm/test/Conventional rivets/00015882.obj
+dataset_org_norm/test/Conventional rivets/00016063.obj
+dataset_org_norm/test/Conventional rivets/00017362.obj
+dataset_org_norm/test/Conventional rivets/00017463.obj
+dataset_org_norm/test/Conventional rivets/00017146.obj
+dataset_org_norm/test/Conventional rivets/00016856.obj
+dataset_org_norm/test/Conventional rivets/00017113.obj
+dataset_org_norm/test/Conventional rivets/00016038.obj
+dataset_org_norm/test/Conventional rivets/00016571.obj
+dataset_org_norm/test/Conventional rivets/00017264.obj
+dataset_org_norm/test/Conventional rivets/00016998.obj
+dataset_org_norm/test/Conventional rivets/00016947.obj
+dataset_org_norm/test/Conventional rivets/00015776.obj
+dataset_org_norm/test/Conventional rivets/00019074.obj
+dataset_org_norm/test/Conventional rivets/00016598.obj
+dataset_org_norm/test/Conventional rivets/00017620.obj
+dataset_org_norm/test/Conventional rivets/00016763.obj
+dataset_org_norm/test/Conventional rivets/00016480.obj
+dataset_org_norm/test/Conventional rivets/00015997.obj
+dataset_org_norm/test/Conventional rivets/00015399.obj
+dataset_org_norm/test/Conventional rivets/00017373.obj
+dataset_org_norm/test/Conventional rivets/00017261.obj
+dataset_org_norm/test/Conventional rivets/00017630.obj
+dataset_org_norm/test/Conventional rivets/00017674.obj
+dataset_org_norm/test/Conventional rivets/00017138.obj
+dataset_org_norm/test/Conventional rivets/00017870.obj
+dataset_org_norm/test/Conventional rivets/00017807.obj
+dataset_org_norm/test/Conventional rivets/00018998.obj
+dataset_org_norm/test/Conventional rivets/00017395.obj
+dataset_org_norm/test/Conventional rivets/00019067.obj
+dataset_org_norm/test/Conventional rivets/00016911.obj
+dataset_org_norm/test/Conventional rivets/00017691.obj
+dataset_org_norm/test/Conventional rivets/00017042.obj
+dataset_org_norm/test/Conventional rivets/00017023.obj
+dataset_org_norm/test/Conventional rivets/00015482.obj
+dataset_org_norm/test/Conventional rivets/00017545.obj
+dataset_org_norm/test/Conventional rivets/00016350.obj
+dataset_org_norm/test/Conventional rivets/00018974.obj
+dataset_org_norm/test/Conventional rivets/00017523.obj
+dataset_org_norm/test/Conventional rivets/00017280.obj
+dataset_org_norm/test/Conventional rivets/00017813.obj
+dataset_org_norm/test/Conventional rivets/00018957.obj
+dataset_org_norm/test/Conventional rivets/00018020.obj
+dataset_org_norm/test/Conventional rivets/00017555.obj
+dataset_org_norm/test/Conventional rivets/00018935.obj
+dataset_org_norm/test/Conventional rivets/00016794.obj
+dataset_org_norm/test/Conventional rivets/00015661.obj
+dataset_org_norm/test/Conventional rivets/00019132.obj
+dataset_org_norm/test/Conventional rivets/00016751.obj
+dataset_org_norm/test/Conventional rivets/00015502.obj
+dataset_org_norm/test/Conventional rivets/00019076.obj
+dataset_org_norm/test/Conventional rivets/00017520.obj
+dataset_org_norm/test/Conventional rivets/00016384.obj
+dataset_org_norm/test/Conventional rivets/00017080.obj
+dataset_org_norm/test/Conventional rivets/00018001.obj
+dataset_org_norm/test/Conventional rivets/00016742.obj
+dataset_org_norm/test/Conventional rivets/00016273.obj
+dataset_org_norm/test/Conventional rivets/00016283.obj
+dataset_org_norm/test/Conventional rivets/00015672.obj
+dataset_org_norm/test/Conventional rivets/00016201.obj
+dataset_org_norm/test/Convex washer/00019173.obj
+dataset_org_norm/test/Convex washer/00019238.obj
+dataset_org_norm/test/Convex washer/00019186.obj
+dataset_org_norm/test/Convex washer/00019233.obj
+dataset_org_norm/test/Convex washer/00019177.obj
+dataset_org_norm/test/Convex washer/00019239.obj
+dataset_org_norm/test/Convex washer/00019169.obj
+dataset_org_norm/test/Convex washer/00019227.obj
+dataset_org_norm/test/Convex washer/00019166.obj
+dataset_org_norm/test/Convex washer/00019226.obj
+dataset_org_norm/test/Convex washer/00019246.obj
+dataset_org_norm/test/Convex washer/00019180.obj
+dataset_org_norm/test/Convex washer/00019207.obj
+dataset_org_norm/test/Convex washer/00019202.obj
+dataset_org_norm/test/Convex washer/00019223.obj
+dataset_org_norm/test/Convex washer/00019210.obj
+dataset_org_norm/test/Convex washer/00019187.obj
+dataset_org_norm/test/Convex washer/00019184.obj
+dataset_org_norm/test/Helical geared motors/00026328.obj
+dataset_org_norm/test/Helical geared motors/00025739.obj
+dataset_org_norm/test/Helical geared motors/00026160.obj
+dataset_org_norm/test/Helical geared motors/00025759.obj
+dataset_org_norm/test/Helical geared motors/00026079.obj
+dataset_org_norm/test/Helical geared motors/00025811.obj
+dataset_org_norm/test/Helical geared motors/00025910.obj
+dataset_org_norm/test/Helical geared motors/00025732.obj
+dataset_org_norm/test/Helical geared motors/00025754.obj
+dataset_org_norm/test/Helical geared motors/00026045.obj
+dataset_org_norm/test/Helical geared motors/00026285.obj
+dataset_org_norm/test/Helical geared motors/00026395.obj
+dataset_org_norm/test/Helical geared motors/00026375.obj
+dataset_org_norm/test/Helical geared motors/00025755.obj
+dataset_org_norm/test/Helical geared motors/00025771.obj
+dataset_org_norm/test/Helical geared motors/00025961.obj
+dataset_org_norm/test/Helical geared motors/00025970.obj
+dataset_org_norm/test/Helical geared motors/00026371.obj
+dataset_org_norm/test/Helical geared motors/00026132.obj
+dataset_org_norm/test/Helical geared motors/00025756.obj
+dataset_org_norm/test/Helical geared motors/00025832.obj
+dataset_org_norm/test/Helical geared motors/00026233.obj
+dataset_org_norm/test/Helical geared motors/00026263.obj
+dataset_org_norm/test/Helical geared motors/00026085.obj
+dataset_org_norm/test/Helical geared motors/00026137.obj
+dataset_org_norm/test/Helical geared motors/00026074.obj
+dataset_org_norm/test/Helical geared motors/00026239.obj
+dataset_org_norm/test/Helical geared motors/00026280.obj
+dataset_org_norm/test/Helical geared motors/00025714.obj
+dataset_org_norm/test/Helical geared motors/00025736.obj
+dataset_org_norm/test/Helical geared motors/00026266.obj
+dataset_org_norm/test/Helical geared motors/00025985.obj
+dataset_org_norm/test/Helical geared motors/00025940.obj
+dataset_org_norm/test/Helical geared motors/00025960.obj
+dataset_org_norm/test/Helical geared motors/00025704.obj
+dataset_org_norm/test/Helical geared motors/00025718.obj
+dataset_org_norm/test/Helical geared motors/00025761.obj
+dataset_org_norm/test/Helical geared motors/00026159.obj
+dataset_org_norm/test/Helical geared motors/00026222.obj
+dataset_org_norm/test/Helical geared motors/00025872.obj
+dataset_org_norm/test/Helical geared motors/00026133.obj
+dataset_org_norm/test/Helical geared motors/00026287.obj
+dataset_org_norm/test/Helical geared motors/00025793.obj
+dataset_org_norm/test/Helical geared motors/00025798.obj
+dataset_org_norm/test/Helical geared motors/00026345.obj
+dataset_org_norm/test/Helical geared motors/00025784.obj
+dataset_org_norm/test/Helical geared motors/00026269.obj
+dataset_org_norm/test/Helical geared motors/00026372.obj
+dataset_org_norm/test/Helical geared motors/00026344.obj
+dataset_org_norm/test/Helical geared motors/00026213.obj
+dataset_org_norm/test/Helical geared motors/00026078.obj
+dataset_org_norm/test/Helical geared motors/00025719.obj
+dataset_org_norm/test/Helical geared motors/00025923.obj
+dataset_org_norm/test/Helical geared motors/00025922.obj
+dataset_org_norm/test/Helical geared motors/00025723.obj
+dataset_org_norm/test/Helical geared motors/00026087.obj
+dataset_org_norm/test/Helical geared motors/00026152.obj
+dataset_org_norm/test/Helical geared motors/00026346.obj
+dataset_org_norm/test/Helical geared motors/00025753.obj
+dataset_org_norm/test/Wingnuts/00045972.obj
+dataset_org_norm/test/Wingnuts/00045964.obj
+dataset_org_norm/test/Wingnuts/00045938.obj
+dataset_org_norm/test/Wingnuts/00045948.obj
+dataset_org_norm/test/Wingnuts/00045960.obj
+dataset_org_norm/test/Wingnuts/00045936.obj
+dataset_org_norm/test/Wingnuts/00045947.obj
+dataset_org_norm/test/Wingnuts/00045982.obj
+dataset_org_norm/test/Bearing accessories/00013720.obj
+dataset_org_norm/test/Bearing accessories/00013691.obj
+dataset_org_norm/test/Bearing accessories/00013687.obj
+dataset_org_norm/test/Bearing accessories/00013702.obj
+dataset_org_norm/test/Bearing accessories/00013708.obj
+dataset_org_norm/test/Bearing accessories/00013709.obj
+dataset_org_norm/test/Bearing accessories/00013700.obj
+dataset_org_norm/test/Bearing accessories/00013680.obj
+dataset_org_norm/test/Bearing accessories/00013710.obj
+dataset_org_norm/test/Bearing accessories/00013686.obj
+dataset_org_norm/test/Bearing accessories/00013718.obj
+dataset_org_norm/test/Bearing accessories/00013721.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058192.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058611.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058169.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057602.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058024.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058528.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055379.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056356.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058029.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056322.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055296.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056583.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057762.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058504.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056525.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057603.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058716.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055310.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058656.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056188.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058112.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055558.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055756.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057743.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056829.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055712.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055547.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057897.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056256.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057120.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055859.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056133.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056798.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056367.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058359.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056158.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056644.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056703.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057579.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057651.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055222.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055236.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057999.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058663.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056053.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055873.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058354.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056400.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055521.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057648.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056327.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055314.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056939.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056689.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057623.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058594.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056893.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055162.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056464.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055711.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057299.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056950.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058199.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057186.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057574.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057043.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056196.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055145.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056405.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057291.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058097.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056635.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056269.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056881.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056354.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057365.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057892.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055225.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055195.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057836.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055810.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055265.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055742.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055819.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056700.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055261.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056499.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057463.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057091.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00055614.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056606.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058193.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056866.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057072.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058390.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00057607.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058073.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056485.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00058102.obj
+dataset_org_norm/test/Screws and bolts with cylindrical head/00056047.obj
+dataset_org_norm/test/Springs/00031565.obj
+dataset_org_norm/test/Springs/00031388.obj
+dataset_org_norm/test/Springs/00031468.obj
+dataset_org_norm/test/Springs/00031492.obj
+dataset_org_norm/test/Bushes/00013899.obj
+dataset_org_norm/test/Bushes/00014149.obj
+dataset_org_norm/test/Bushes/00014255.obj
+dataset_org_norm/test/Bushes/00014422.obj
+dataset_org_norm/test/Bushes/00014487.obj
+dataset_org_norm/test/Bushes/00013889.obj
+dataset_org_norm/test/Bushes/00014168.obj
+dataset_org_norm/test/Bushes/00014326.obj
+dataset_org_norm/test/Bushes/00013908.obj
+dataset_org_norm/test/Bushes/00014204.obj
+dataset_org_norm/test/Bushes/00014127.obj
+dataset_org_norm/test/Bushes/00014116.obj
+dataset_org_norm/test/Bushes/00014468.obj
+dataset_org_norm/test/Bushes/00014103.obj
+dataset_org_norm/test/Bushes/00013928.obj
+dataset_org_norm/test/Bushes/00013812.obj
+dataset_org_norm/test/Bushes/00014426.obj
+dataset_org_norm/test/Bushes/00013954.obj
+dataset_org_norm/test/Bushes/00013741.obj
+dataset_org_norm/test/Bushes/00013745.obj
+dataset_org_norm/test/Bushes/00014217.obj
+dataset_org_norm/test/Bushes/00013867.obj
+dataset_org_norm/test/Bushes/00014123.obj
+dataset_org_norm/test/Bushes/00014219.obj
+dataset_org_norm/test/Bushes/00014393.obj
+dataset_org_norm/test/Bushes/00014163.obj
+dataset_org_norm/test/Bushes/00013962.obj
+dataset_org_norm/test/Bushes/00014110.obj
+dataset_org_norm/test/Bushes/00014441.obj
+dataset_org_norm/test/Bushes/00014277.obj
+dataset_org_norm/test/Bushes/00013817.obj
+dataset_org_norm/test/Bushes/00014427.obj
+dataset_org_norm/test/Bushes/00013851.obj
+dataset_org_norm/test/Bushes/00014263.obj
+dataset_org_norm/test/Bushes/00013951.obj
+dataset_org_norm/test/Bushes/00014185.obj
+dataset_org_norm/test/Bushes/00014232.obj
+dataset_org_norm/test/Bushes/00014121.obj
+dataset_org_norm/test/Bushes/00014207.obj
+dataset_org_norm/test/Bushes/00013894.obj
+dataset_org_norm/test/Bushes/00013784.obj
+dataset_org_norm/test/Bushes/00014253.obj
+dataset_org_norm/test/Bushes/00014310.obj
+dataset_org_norm/test/Bushes/00013902.obj
+dataset_org_norm/test/Bushes/00014130.obj
+dataset_org_norm/test/Bushes/00014193.obj
+dataset_org_norm/test/Bushes/00013814.obj
+dataset_org_norm/test/Bushes/00013781.obj
+dataset_org_norm/test/Bushes/00014223.obj
+dataset_org_norm/test/Bushes/00014491.obj
+dataset_org_norm/test/Bushes/00014109.obj
+dataset_org_norm/test/Bushes/00014136.obj
+dataset_org_norm/test/Bushes/00014347.obj
+dataset_org_norm/test/Bushes/00014384.obj
+dataset_org_norm/test/Bushes/00014395.obj
+dataset_org_norm/test/Bushes/00014080.obj
+dataset_org_norm/test/Bushes/00014299.obj
+dataset_org_norm/test/Bushes/00014282.obj
+dataset_org_norm/test/Bushes/00013960.obj
+dataset_org_norm/test/Bushes/00014430.obj
+dataset_org_norm/test/Bushes/00014090.obj
+dataset_org_norm/test/Bushes/00014210.obj
+dataset_org_norm/test/Bushes/00014124.obj
+dataset_org_norm/test/Bushes/00014226.obj
+dataset_org_norm/test/Bushes/00013738.obj
+dataset_org_norm/test/Bushes/00014318.obj
+dataset_org_norm/test/Bushes/00014429.obj
+dataset_org_norm/test/Bushes/00014410.obj
+dataset_org_norm/test/Bushes/00013822.obj
+dataset_org_norm/test/Bushes/00014257.obj
+dataset_org_norm/test/Bushes/00014451.obj
+dataset_org_norm/test/Bushes/00013757.obj
+dataset_org_norm/test/Bushes/00013840.obj
+dataset_org_norm/test/Bushes/00013955.obj
+dataset_org_norm/test/Bushes/00013798.obj
+dataset_org_norm/test/Bushes/00014490.obj
+dataset_org_norm/test/Bushes/00014087.obj
+dataset_org_norm/test/Bushes/00014270.obj
+dataset_org_norm/test/Bushes/00014164.obj
+dataset_org_norm/test/Bushes/00013842.obj
+dataset_org_norm/test/Bushes/00014450.obj
+dataset_org_norm/test/Bushes/00014198.obj
+dataset_org_norm/test/Bushes/00014397.obj
+dataset_org_norm/test/Bushes/00013917.obj
+dataset_org_norm/test/Bushes/00013750.obj
+dataset_org_norm/test/Bushes/00014083.obj
+dataset_org_norm/test/Bushes/00014259.obj
+dataset_org_norm/test/Bushes/00014421.obj
+dataset_org_norm/test/Bushes/00014425.obj
+dataset_org_norm/test/Bushes/00013900.obj
+dataset_org_norm/test/Bushes/00014235.obj
+dataset_org_norm/test/Bushes/00013972.obj
+dataset_org_norm/test/Bushes/00013912.obj
+dataset_org_norm/test/Bushes/00014337.obj
+dataset_org_norm/test/Bushes/00014145.obj
+dataset_org_norm/test/Bushes/00013865.obj
+dataset_org_norm/test/Bushes/00014382.obj
+dataset_org_norm/test/Bushes/00014250.obj
+dataset_org_norm/test/Bushes/00013737.obj
+dataset_org_norm/test/Bushes/00013974.obj
+dataset_org_norm/test/T-shape fitting/00037206.obj
+dataset_org_norm/test/T-shape fitting/00037179.obj
+dataset_org_norm/test/T-shape fitting/00037182.obj
+dataset_org_norm/test/T-shape fitting/00037155.obj
+dataset_org_norm/test/T-shape fitting/00037078.obj
+dataset_org_norm/test/T-shape fitting/00037094.obj
+dataset_org_norm/test/T-shape fitting/00037205.obj
+dataset_org_norm/test/T-shape fitting/00037185.obj
+dataset_org_norm/test/T-shape fitting/00037160.obj
+dataset_org_norm/test/T-shape fitting/00037218.obj
+dataset_org_norm/test/T-shape fitting/00037193.obj
+dataset_org_norm/test/T-shape fitting/00037002.obj
+dataset_org_norm/test/T-shape fitting/00037049.obj
+dataset_org_norm/test/T-shape fitting/00037201.obj
+dataset_org_norm/test/T-shape fitting/00037167.obj
+dataset_org_norm/test/T-shape fitting/00037063.obj
+dataset_org_norm/test/T-shape fitting/00037209.obj
+dataset_org_norm/test/T-shape fitting/00037075.obj
+dataset_org_norm/test/T-shape fitting/00037183.obj
+dataset_org_norm/test/T-shape fitting/00037033.obj
+dataset_org_norm/test/T-shape fitting/00037081.obj
+dataset_org_norm/test/T-shape fitting/00037059.obj
+dataset_org_norm/test/T-shape fitting/00037151.obj
+dataset_org_norm/test/T-shape fitting/00037036.obj
+dataset_org_norm/test/T-shape fitting/00037210.obj
+dataset_org_norm/test/T-shape fitting/00037065.obj
+dataset_org_norm/test/T-shape fitting/00037194.obj
+dataset_org_norm/test/T-shape fitting/00037089.obj
+dataset_org_norm/test/T-shape fitting/00037088.obj
+dataset_org_norm/test/T-shape fitting/00037159.obj
+dataset_org_norm/test/T-shape fitting/00037161.obj
+dataset_org_norm/test/T-shape fitting/00037190.obj
+dataset_org_norm/test/T-nut/00036856.obj
+dataset_org_norm/test/T-nut/00036808.obj
+dataset_org_norm/test/T-nut/00036834.obj
+dataset_org_norm/test/T-nut/00036792.obj
+dataset_org_norm/test/T-nut/00036867.obj
+dataset_org_norm/test/T-nut/00036821.obj
+dataset_org_norm/test/T-nut/00036813.obj
+dataset_org_norm/test/T-nut/00036827.obj
+dataset_org_norm/test/T-nut/00036820.obj
+dataset_org_norm/test/T-nut/00036873.obj
+dataset_org_norm/test/T-nut/00036800.obj
+dataset_org_norm/test/T-nut/00036790.obj
+dataset_org_norm/test/T-nut/00036879.obj
+dataset_org_norm/test/T-nut/00036869.obj
+dataset_org_norm/test/T-nut/00036798.obj
+dataset_org_norm/test/T-nut/00036815.obj
+dataset_org_norm/test/T-nut/00036872.obj
+dataset_org_norm/test/T-nut/00036799.obj
+dataset_org_norm/test/T-nut/00036831.obj
+dataset_org_norm/test/T-nut/00036797.obj
+dataset_org_norm/test/Elbow fitting/00021502.obj
+dataset_org_norm/test/Elbow fitting/00021258.obj
+dataset_org_norm/test/Elbow fitting/00021427.obj
+dataset_org_norm/test/Elbow fitting/00021170.obj
+dataset_org_norm/test/Elbow fitting/00021423.obj
+dataset_org_norm/test/Elbow fitting/00021287.obj
+dataset_org_norm/test/Elbow fitting/00021503.obj
+dataset_org_norm/test/Elbow fitting/00021296.obj
+dataset_org_norm/test/Elbow fitting/00021322.obj
+dataset_org_norm/test/Elbow fitting/00021171.obj
+dataset_org_norm/test/Elbow fitting/00021305.obj
+dataset_org_norm/test/Elbow fitting/00021317.obj
+dataset_org_norm/test/Elbow fitting/00021163.obj
+dataset_org_norm/test/Elbow fitting/00021333.obj
+dataset_org_norm/test/Elbow fitting/00021158.obj
+dataset_org_norm/test/Elbow fitting/00021494.obj
+dataset_org_norm/test/Elbow fitting/00021300.obj
+dataset_org_norm/test/Elbow fitting/00021256.obj
+dataset_org_norm/test/Elbow fitting/00021315.obj
+dataset_org_norm/test/Elbow fitting/00021424.obj
+dataset_org_norm/test/Elbow fitting/00021321.obj
+dataset_org_norm/test/Elbow fitting/00021316.obj
+dataset_org_norm/test/Elbow fitting/00021519.obj
+dataset_org_norm/test/Elbow fitting/00021332.obj
+dataset_org_norm/test/Elbow fitting/00021263.obj
+dataset_org_norm/test/Elbow fitting/00021489.obj
+dataset_org_norm/test/Elbow fitting/00021481.obj
+dataset_org_norm/test/Elbow fitting/00021504.obj
+dataset_org_norm/test/Elbow fitting/00021318.obj
+dataset_org_norm/test/Elbow fitting/00021275.obj
+dataset_org_norm/test/Elbow fitting/00021508.obj
+dataset_org_norm/test/Elbow fitting/00021453.obj
+dataset_org_norm/test/Elbow fitting/00021175.obj
+dataset_org_norm/test/Elbow fitting/00021335.obj
+dataset_org_norm/test/Elbow fitting/00021281.obj
+dataset_org_norm/test/Clamps/00015187.obj
+dataset_org_norm/test/Clamps/00015176.obj
+dataset_org_norm/test/Clamps/00015298.obj
+dataset_org_norm/test/Clamps/00015238.obj
+dataset_org_norm/test/Clamps/00015172.obj
+dataset_org_norm/test/Clamps/00015179.obj
+dataset_org_norm/test/Clamps/00015221.obj
+dataset_org_norm/test/Clamps/00015231.obj
+dataset_org_norm/test/Clamps/00015156.obj
+dataset_org_norm/test/Clamps/00015236.obj
+dataset_org_norm/test/Clamps/00015293.obj
+dataset_org_norm/test/Clamps/00015248.obj
+dataset_org_norm/test/Clamps/00015207.obj
+dataset_org_norm/test/Clamps/00015271.obj
+dataset_org_norm/test/Clamps/00015255.obj
+dataset_org_norm/test/Clamps/00015150.obj
+dataset_org_norm/test/Clamps/00015275.obj
+dataset_org_norm/test/Clamps/00015168.obj
+dataset_org_norm/test/Threaded rods/00041580.obj
+dataset_org_norm/test/Threaded rods/00041549.obj
+dataset_org_norm/test/Threaded rods/00041594.obj
+dataset_org_norm/test/Threaded rods/00042118.obj
+dataset_org_norm/test/Threaded rods/00041244.obj
+dataset_org_norm/test/Threaded rods/00041271.obj
+dataset_org_norm/test/Threaded rods/00041515.obj
+dataset_org_norm/test/Threaded rods/00042041.obj
+dataset_org_norm/test/Threaded rods/00041758.obj
+dataset_org_norm/test/Threaded rods/00041248.obj
+dataset_org_norm/test/Threaded rods/00041641.obj
+dataset_org_norm/test/Threaded rods/00041983.obj
+dataset_org_norm/test/Threaded rods/00041573.obj
+dataset_org_norm/test/Threaded rods/00042026.obj
+dataset_org_norm/test/Threaded rods/00041945.obj
+dataset_org_norm/test/Threaded rods/00041380.obj
+dataset_org_norm/test/Threaded rods/00041707.obj
+dataset_org_norm/test/Threaded rods/00041658.obj
+dataset_org_norm/test/Threaded rods/00042050.obj
+dataset_org_norm/test/Threaded rods/00041365.obj
+dataset_org_norm/test/Threaded rods/00041242.obj
+dataset_org_norm/test/Threaded rods/00041763.obj
+dataset_org_norm/test/Threaded rods/00041243.obj
+dataset_org_norm/test/Threaded rods/00041854.obj
+dataset_org_norm/test/Threaded rods/00041947.obj
+dataset_org_norm/test/Threaded rods/00041207.obj
+dataset_org_norm/test/Threaded rods/00041601.obj
+dataset_org_norm/test/Threaded rods/00042190.obj
+dataset_org_norm/test/Threaded rods/00042105.obj
+dataset_org_norm/test/Threaded rods/00042205.obj
+dataset_org_norm/test/Threaded rods/00041479.obj
+dataset_org_norm/test/Threaded rods/00042114.obj
+dataset_org_norm/test/Threaded rods/00041639.obj
+dataset_org_norm/test/Threaded rods/00041730.obj
+dataset_org_norm/test/Threaded rods/00041270.obj
+dataset_org_norm/test/Threaded rods/00042096.obj
+dataset_org_norm/test/Threaded rods/00041827.obj
+dataset_org_norm/test/Threaded rods/00041446.obj
+dataset_org_norm/test/Threaded rods/00042025.obj
+dataset_org_norm/test/Threaded rods/00041429.obj
+dataset_org_norm/test/Threaded rods/00041358.obj
+dataset_org_norm/test/Threaded rods/00041444.obj
+dataset_org_norm/test/Threaded rods/00041940.obj
+dataset_org_norm/test/Threaded rods/00041592.obj
+dataset_org_norm/test/Threaded rods/00042082.obj
+dataset_org_norm/test/Threaded rods/00041996.obj
+dataset_org_norm/test/Threaded rods/00041667.obj
+dataset_org_norm/test/Threaded rods/00041286.obj
+dataset_org_norm/test/Threaded rods/00042037.obj
+dataset_org_norm/test/Threaded rods/00042130.obj
+dataset_org_norm/test/Threaded rods/00041744.obj
+dataset_org_norm/test/Threaded rods/00041362.obj
+dataset_org_norm/test/Threaded rods/00041317.obj
+dataset_org_norm/test/Threaded rods/00041604.obj
+dataset_org_norm/test/Threaded rods/00041815.obj
+dataset_org_norm/test/Threaded rods/00041695.obj
+dataset_org_norm/test/Threaded rods/00041302.obj
+dataset_org_norm/test/Threaded rods/00041755.obj
+dataset_org_norm/test/Threaded rods/00041463.obj
+dataset_org_norm/test/Threaded rods/00041806.obj
+dataset_org_norm/test/Threaded rods/00042119.obj
+dataset_org_norm/test/Threaded rods/00041571.obj
+dataset_org_norm/test/Threaded rods/00041283.obj
+dataset_org_norm/test/Threaded rods/00042149.obj
+dataset_org_norm/test/Threaded rods/00041838.obj
+dataset_org_norm/test/Threaded rods/00042078.obj
+dataset_org_norm/test/Threaded rods/00041332.obj
+dataset_org_norm/test/Threaded rods/00041542.obj
+dataset_org_norm/test/Threaded rods/00041694.obj
+dataset_org_norm/test/Threaded rods/00042058.obj
+dataset_org_norm/test/Threaded rods/00041305.obj
+dataset_org_norm/test/Threaded rods/00042168.obj
+dataset_org_norm/test/Threaded rods/00041602.obj
+dataset_org_norm/test/Threaded rods/00041720.obj
+dataset_org_norm/test/Threaded rods/00042115.obj
+dataset_org_norm/test/Threaded rods/00041447.obj
+dataset_org_norm/test/Threaded rods/00041698.obj
+dataset_org_norm/test/Threaded rods/00041452.obj
+dataset_org_norm/test/Threaded rods/00041550.obj
+dataset_org_norm/test/Threaded rods/00041406.obj
+dataset_org_norm/test/Threaded rods/00041901.obj
+dataset_org_norm/test/Threaded rods/00041300.obj
+dataset_org_norm/test/Threaded rods/00041798.obj
+dataset_org_norm/test/Threaded rods/00041199.obj
+dataset_org_norm/test/Threaded rods/00041513.obj
+dataset_org_norm/test/Threaded rods/00041912.obj
+dataset_org_norm/test/Threaded rods/00041507.obj
+dataset_org_norm/test/Threaded rods/00041982.obj
+dataset_org_norm/test/Threaded rods/00041487.obj
+dataset_org_norm/test/Threaded rods/00041266.obj
+dataset_org_norm/test/Threaded rods/00041638.obj
+dataset_org_norm/test/Threaded rods/00041459.obj
+dataset_org_norm/test/Threaded rods/00041789.obj
+dataset_org_norm/test/Threaded rods/00041555.obj
+dataset_org_norm/test/Threaded rods/00041517.obj
+dataset_org_norm/test/Threaded rods/00041865.obj
+dataset_org_norm/test/Threaded rods/00041615.obj
+dataset_org_norm/test/Threaded rods/00042194.obj
+dataset_org_norm/test/Threaded rods/00042146.obj
+dataset_org_norm/test/Threaded rods/00041578.obj
+dataset_org_norm/test/Flange nut/00022920.obj
+dataset_org_norm/test/Flange nut/00022904.obj
+dataset_org_norm/test/Flange nut/00022912.obj
+dataset_org_norm/test/Flange nut/00022881.obj
+dataset_org_norm/test/Flange nut/00022922.obj
+dataset_org_norm/test/Flange nut/00022885.obj
+dataset_org_norm/test/Flange nut/00022903.obj
+dataset_org_norm/test/Flange nut/00022887.obj
+dataset_org_norm/test/Flange nut/00022901.obj
+dataset_org_norm/test/Standard fitting/00032174.obj
+dataset_org_norm/test/Standard fitting/00032293.obj
+dataset_org_norm/test/Standard fitting/00032488.obj
+dataset_org_norm/test/Standard fitting/00032306.obj
+dataset_org_norm/test/Standard fitting/00032400.obj
+dataset_org_norm/test/Standard fitting/00032281.obj
+dataset_org_norm/test/Standard fitting/00032068.obj
+dataset_org_norm/test/Standard fitting/00031905.obj
+dataset_org_norm/test/Standard fitting/00032472.obj
+dataset_org_norm/test/Standard fitting/00032209.obj
+dataset_org_norm/test/Standard fitting/00032009.obj
+dataset_org_norm/test/Standard fitting/00032107.obj
+dataset_org_norm/test/Standard fitting/00032369.obj
+dataset_org_norm/test/Standard fitting/00031991.obj
+dataset_org_norm/test/Standard fitting/00032352.obj
+dataset_org_norm/test/Standard fitting/00031896.obj
+dataset_org_norm/test/Standard fitting/00031999.obj
+dataset_org_norm/test/Standard fitting/00032480.obj
+dataset_org_norm/test/Standard fitting/00032048.obj
+dataset_org_norm/test/Standard fitting/00032286.obj
+dataset_org_norm/test/Standard fitting/00032094.obj
+dataset_org_norm/test/Standard fitting/00032045.obj
+dataset_org_norm/test/Standard fitting/00032355.obj
+dataset_org_norm/test/Standard fitting/00032505.obj
+dataset_org_norm/test/Standard fitting/00031798.obj
+dataset_org_norm/test/Standard fitting/00032263.obj
+dataset_org_norm/test/Standard fitting/00032086.obj
+dataset_org_norm/test/Standard fitting/00032337.obj
+dataset_org_norm/test/Standard fitting/00032397.obj
+dataset_org_norm/test/Standard fitting/00032291.obj
+dataset_org_norm/test/Standard fitting/00032370.obj
+dataset_org_norm/test/Standard fitting/00032014.obj
+dataset_org_norm/test/Standard fitting/00031839.obj
+dataset_org_norm/test/Standard fitting/00032081.obj
+dataset_org_norm/test/Standard fitting/00032471.obj
+dataset_org_norm/test/Standard fitting/00032103.obj
+dataset_org_norm/test/Standard fitting/00031993.obj
+dataset_org_norm/test/Standard fitting/00032384.obj
+dataset_org_norm/test/Standard fitting/00032381.obj
+dataset_org_norm/test/Standard fitting/00031766.obj
+dataset_org_norm/test/Standard fitting/00032473.obj
+dataset_org_norm/test/Standard fitting/00032062.obj
+dataset_org_norm/test/Standard fitting/00032391.obj
+dataset_org_norm/test/Standard fitting/00032485.obj
+dataset_org_norm/test/Standard fitting/00032424.obj
+dataset_org_norm/test/Standard fitting/00032220.obj
+dataset_org_norm/test/Standard fitting/00032316.obj
+dataset_org_norm/test/Standard fitting/00032089.obj
+dataset_org_norm/test/Standard fitting/00031834.obj
+dataset_org_norm/test/Standard fitting/00032431.obj
+dataset_org_norm/test/Standard fitting/00032100.obj
+dataset_org_norm/test/Standard fitting/00032432.obj
+dataset_org_norm/test/Standard fitting/00031787.obj
+dataset_org_norm/test/Standard fitting/00031826.obj
+dataset_org_norm/test/Standard fitting/00032278.obj
+dataset_org_norm/test/Standard fitting/00032326.obj
+dataset_org_norm/test/Standard fitting/00032448.obj
+dataset_org_norm/test/Standard fitting/00032149.obj
+dataset_org_norm/test/Standard fitting/00032143.obj
+dataset_org_norm/test/Standard fitting/00032515.obj
+dataset_org_norm/test/Standard fitting/00032474.obj
+dataset_org_norm/test/Standard fitting/00032051.obj
+dataset_org_norm/test/Standard fitting/00032071.obj
+dataset_org_norm/test/Standard fitting/00032435.obj
+dataset_org_norm/test/Standard fitting/00032016.obj
+dataset_org_norm/test/Standard fitting/00032170.obj
+dataset_org_norm/test/Standard fitting/00032076.obj
+dataset_org_norm/test/Standard fitting/00032395.obj
+dataset_org_norm/test/Standard fitting/00031817.obj
+dataset_org_norm/test/Standard fitting/00032105.obj
+dataset_org_norm/test/Standard fitting/00032118.obj
+dataset_org_norm/test/Standard fitting/00032388.obj
+dataset_org_norm/test/Standard fitting/00032366.obj
+dataset_org_norm/test/Standard fitting/00031772.obj
+dataset_org_norm/test/Standard fitting/00031898.obj
+dataset_org_norm/test/Standard fitting/00032060.obj
+dataset_org_norm/test/Standard fitting/00031930.obj
+dataset_org_norm/test/Standard fitting/00032339.obj
+dataset_org_norm/test/Standard fitting/00032065.obj
+dataset_org_norm/test/Standard fitting/00032097.obj
+dataset_org_norm/test/Standard fitting/00032305.obj
+dataset_org_norm/test/Standard fitting/00031802.obj
+dataset_org_norm/test/Standard fitting/00032309.obj
+dataset_org_norm/test/Standard fitting/00031792.obj
+dataset_org_norm/test/Standard fitting/00032298.obj
+dataset_org_norm/test/Standard fitting/00032346.obj
+dataset_org_norm/test/Standard fitting/00031800.obj
+dataset_org_norm/test/Standard fitting/00032294.obj
+dataset_org_norm/test/Standard fitting/00032287.obj
+dataset_org_norm/test/Standard fitting/00032421.obj
+dataset_org_norm/test/Standard fitting/00032376.obj
+dataset_org_norm/test/Standard fitting/00032254.obj
+dataset_org_norm/test/Standard fitting/00032151.obj
+dataset_org_norm/test/Standard fitting/00032172.obj
+dataset_org_norm/test/Standard fitting/00032512.obj
+dataset_org_norm/test/Standard fitting/00031797.obj
+dataset_org_norm/test/Standard fitting/00031816.obj
+dataset_org_norm/test/Standard fitting/00032079.obj
+dataset_org_norm/test/Standard fitting/00032290.obj
+dataset_org_norm/test/Standard fitting/00032362.obj
+dataset_org_norm/test/Plain guidings/00048567.obj
+dataset_org_norm/test/Plain guidings/00048597.obj
+dataset_org_norm/test/Plain guidings/00048577.obj
+dataset_org_norm/test/Plain guidings/00048569.obj
+dataset_org_norm/test/Plain guidings/00048598.obj
+dataset_org_norm/test/Plain guidings/00048591.obj
+dataset_org_norm/test/Plain guidings/00048607.obj
+dataset_org_norm/test/Plain guidings/00048579.obj
+dataset_org_norm/test/Plain guidings/00048574.obj
+dataset_org_norm/test/Keys and keyways, splines/00002709.obj
+dataset_org_norm/test/Keys and keyways, splines/00001928.obj
+dataset_org_norm/test/Keys and keyways, splines/00003641.obj
+dataset_org_norm/test/Keys and keyways, splines/00002137.obj
+dataset_org_norm/test/Keys and keyways, splines/00003631.obj
+dataset_org_norm/test/Keys and keyways, splines/00003164.obj
+dataset_org_norm/test/Keys and keyways, splines/00003235.obj
+dataset_org_norm/test/Keys and keyways, splines/00002152.obj
+dataset_org_norm/test/Keys and keyways, splines/00002074.obj
+dataset_org_norm/test/Keys and keyways, splines/00003706.obj
+dataset_org_norm/test/Keys and keyways, splines/00003152.obj
+dataset_org_norm/test/Keys and keyways, splines/00003036.obj
+dataset_org_norm/test/Keys and keyways, splines/00003472.obj
+dataset_org_norm/test/Keys and keyways, splines/00002961.obj
+dataset_org_norm/test/Keys and keyways, splines/00000165.obj
+dataset_org_norm/test/Keys and keyways, splines/00000660.obj
+dataset_org_norm/test/Keys and keyways, splines/00000523.obj
+dataset_org_norm/test/Keys and keyways, splines/00002253.obj
+dataset_org_norm/test/Keys and keyways, splines/00004204.obj
+dataset_org_norm/test/Keys and keyways, splines/00001335.obj
+dataset_org_norm/test/Keys and keyways, splines/00001806.obj
+dataset_org_norm/test/Keys and keyways, splines/00000190.obj
+dataset_org_norm/test/Keys and keyways, splines/00001140.obj
+dataset_org_norm/test/Keys and keyways, splines/00003819.obj
+dataset_org_norm/test/Keys and keyways, splines/00002576.obj
+dataset_org_norm/test/Keys and keyways, splines/00001887.obj
+dataset_org_norm/test/Keys and keyways, splines/00002720.obj
+dataset_org_norm/test/Keys and keyways, splines/00003586.obj
+dataset_org_norm/test/Keys and keyways, splines/00000153.obj
+dataset_org_norm/test/Keys and keyways, splines/00003485.obj
+dataset_org_norm/test/Keys and keyways, splines/00001381.obj
+dataset_org_norm/test/Keys and keyways, splines/00000911.obj
+dataset_org_norm/test/Keys and keyways, splines/00004484.obj
+dataset_org_norm/test/Keys and keyways, splines/00001049.obj
+dataset_org_norm/test/Keys and keyways, splines/00000805.obj
+dataset_org_norm/test/Keys and keyways, splines/00003222.obj
+dataset_org_norm/test/Keys and keyways, splines/00003213.obj
+dataset_org_norm/test/Keys and keyways, splines/00001179.obj
+dataset_org_norm/test/Keys and keyways, splines/00000310.obj
+dataset_org_norm/test/Keys and keyways, splines/00004705.obj
+dataset_org_norm/test/Keys and keyways, splines/00000764.obj
+dataset_org_norm/test/Keys and keyways, splines/00000324.obj
+dataset_org_norm/test/Keys and keyways, splines/00003990.obj
+dataset_org_norm/test/Keys and keyways, splines/00001754.obj
+dataset_org_norm/test/Keys and keyways, splines/00002448.obj
+dataset_org_norm/test/Keys and keyways, splines/00002444.obj
+dataset_org_norm/test/Keys and keyways, splines/00000695.obj
+dataset_org_norm/test/Keys and keyways, splines/00001283.obj
+dataset_org_norm/test/Keys and keyways, splines/00004775.obj
+dataset_org_norm/test/Keys and keyways, splines/00001933.obj
+dataset_org_norm/test/Keys and keyways, splines/00001108.obj
+dataset_org_norm/test/Keys and keyways, splines/00002047.obj
+dataset_org_norm/test/Keys and keyways, splines/00000183.obj
+dataset_org_norm/test/Keys and keyways, splines/00000100.obj
+dataset_org_norm/test/Keys and keyways, splines/00004085.obj
+dataset_org_norm/test/Keys and keyways, splines/00002128.obj
+dataset_org_norm/test/Keys and keyways, splines/00002234.obj
+dataset_org_norm/test/Keys and keyways, splines/00000881.obj
+dataset_org_norm/test/Keys and keyways, splines/00000241.obj
+dataset_org_norm/test/Keys and keyways, splines/00003255.obj
+dataset_org_norm/test/Keys and keyways, splines/00004902.obj
+dataset_org_norm/test/Keys and keyways, splines/00000758.obj
+dataset_org_norm/test/Keys and keyways, splines/00002731.obj
+dataset_org_norm/test/Keys and keyways, splines/00001217.obj
+dataset_org_norm/test/Keys and keyways, splines/00004554.obj
+dataset_org_norm/test/Keys and keyways, splines/00003963.obj
+dataset_org_norm/test/Keys and keyways, splines/00001332.obj
+dataset_org_norm/test/Keys and keyways, splines/00003271.obj
+dataset_org_norm/test/Keys and keyways, splines/00000259.obj
+dataset_org_norm/test/Keys and keyways, splines/00003735.obj
+dataset_org_norm/test/Keys and keyways, splines/00002344.obj
+dataset_org_norm/test/Keys and keyways, splines/00001462.obj
+dataset_org_norm/test/Keys and keyways, splines/00000967.obj
+dataset_org_norm/test/Keys and keyways, splines/00000286.obj
+dataset_org_norm/test/Keys and keyways, splines/00001896.obj
+dataset_org_norm/test/Keys and keyways, splines/00001032.obj
+dataset_org_norm/test/Keys and keyways, splines/00003019.obj
+dataset_org_norm/test/Keys and keyways, splines/00001628.obj
+dataset_org_norm/test/Keys and keyways, splines/00001062.obj
+dataset_org_norm/test/Keys and keyways, splines/00004931.obj
+dataset_org_norm/test/Keys and keyways, splines/00004494.obj
+dataset_org_norm/test/Keys and keyways, splines/00001346.obj
+dataset_org_norm/test/Keys and keyways, splines/00002809.obj
+dataset_org_norm/test/Keys and keyways, splines/00002086.obj
+dataset_org_norm/test/Keys and keyways, splines/00004059.obj
+dataset_org_norm/test/Keys and keyways, splines/00002102.obj
+dataset_org_norm/test/Keys and keyways, splines/00003400.obj
+dataset_org_norm/test/Keys and keyways, splines/00002264.obj
+dataset_org_norm/test/Keys and keyways, splines/00001947.obj
+dataset_org_norm/test/Keys and keyways, splines/00000397.obj
+dataset_org_norm/test/Keys and keyways, splines/00004429.obj
+dataset_org_norm/test/Keys and keyways, splines/00002636.obj
+dataset_org_norm/test/Keys and keyways, splines/00003964.obj
+dataset_org_norm/test/Keys and keyways, splines/00003484.obj
+dataset_org_norm/test/Keys and keyways, splines/00004822.obj
+dataset_org_norm/test/Keys and keyways, splines/00000392.obj
+dataset_org_norm/test/Keys and keyways, splines/00004584.obj
+dataset_org_norm/test/Keys and keyways, splines/00004218.obj
+dataset_org_norm/test/Keys and keyways, splines/00001355.obj
+dataset_org_norm/test/Keys and keyways, splines/00004586.obj
+dataset_org_norm/test/Spacers/00030766.obj
+dataset_org_norm/test/Spacers/00030698.obj
+dataset_org_norm/test/Spacers/00030713.obj
+dataset_org_norm/test/Spacers/00030687.obj
+dataset_org_norm/test/Spacers/00030685.obj
+dataset_org_norm/test/Spacers/00030704.obj
+dataset_org_norm/test/Spacers/00030674.obj
+dataset_org_norm/test/Spacers/00030746.obj
+dataset_org_norm/test/Spacers/00030691.obj
+dataset_org_norm/test/Spacers/00030726.obj
+dataset_org_norm/test/Spacers/00030696.obj
+dataset_org_norm/test/Spacers/00030749.obj
+dataset_org_norm/test/Spacers/00030770.obj
+dataset_org_norm/test/Spacers/00030697.obj
+dataset_org_norm/test/Spacers/00030703.obj
+dataset_org_norm/test/Spacers/00030688.obj
+dataset_org_norm/test/Spacers/00030731.obj
+dataset_org_norm/test/Spacers/00030668.obj
+dataset_org_norm/test/Spacers/00030686.obj
+dataset_org_norm/test/Spacers/00030737.obj
+dataset_org_norm/test/Spacers/00030735.obj
+dataset_org_norm/test/Spacers/00030722.obj
+dataset_org_norm/test/Right spur gears/00050664.obj
+dataset_org_norm/test/Right spur gears/00050830.obj
+dataset_org_norm/test/Right spur gears/00050731.obj
+dataset_org_norm/test/Right spur gears/00050657.obj
+dataset_org_norm/test/Right spur gears/00050726.obj
+dataset_org_norm/test/Right spur gears/00050737.obj
+dataset_org_norm/test/Right spur gears/00050827.obj
+dataset_org_norm/test/Right spur gears/00050665.obj
+dataset_org_norm/test/Right spur gears/00050592.obj
+dataset_org_norm/test/Right spur gears/00050546.obj
+dataset_org_norm/test/Right spur gears/00050716.obj
+dataset_org_norm/test/Right spur gears/00050880.obj
+dataset_org_norm/test/Right spur gears/00050584.obj
+dataset_org_norm/test/Right spur gears/00050797.obj
+dataset_org_norm/test/Right spur gears/00050599.obj
+dataset_org_norm/test/Right spur gears/00050755.obj
+dataset_org_norm/test/Right spur gears/00050674.obj
+dataset_org_norm/test/Right spur gears/00050734.obj
+dataset_org_norm/test/Right spur gears/00050960.obj
+dataset_org_norm/test/Right spur gears/00050728.obj
+dataset_org_norm/test/Right spur gears/00050585.obj
+dataset_org_norm/test/Right spur gears/00050667.obj
+dataset_org_norm/test/Right spur gears/00050575.obj
+dataset_org_norm/test/Right spur gears/00050624.obj
+dataset_org_norm/test/Right spur gears/00050800.obj
+dataset_org_norm/test/Right spur gears/00050943.obj
+dataset_org_norm/test/Right spur gears/00050792.obj
+dataset_org_norm/test/Right spur gears/00050784.obj
+dataset_org_norm/test/Right spur gears/00050550.obj
+dataset_org_norm/test/Right spur gears/00050625.obj
+dataset_org_norm/test/Right spur gears/00050796.obj
+dataset_org_norm/test/Right spur gears/00050918.obj
+dataset_org_norm/test/Right spur gears/00050742.obj
+dataset_org_norm/test/Right spur gears/00050913.obj
+dataset_org_norm/test/Right spur gears/00050701.obj
+dataset_org_norm/test/Right spur gears/00050620.obj
+dataset_org_norm/test/Right spur gears/00050886.obj
+dataset_org_norm/test/Right spur gears/00050552.obj
+dataset_org_norm/test/Right spur gears/00050906.obj
+dataset_org_norm/test/Right spur gears/00050588.obj
+dataset_org_norm/test/Right spur gears/00050627.obj
+dataset_org_norm/test/Right spur gears/00050743.obj
+dataset_org_norm/test/Right spur gears/00050773.obj
+dataset_org_norm/test/Right spur gears/00050647.obj
+dataset_org_norm/test/Right spur gears/00050710.obj
+dataset_org_norm/test/Right spur gears/00050605.obj
+dataset_org_norm/test/Right spur gears/00050826.obj
+dataset_org_norm/test/Right spur gears/00050747.obj
+dataset_org_norm/test/Right spur gears/00050794.obj
+dataset_org_norm/test/Right spur gears/00050712.obj
+dataset_org_norm/test/Right spur gears/00050722.obj
+dataset_org_norm/test/Right spur gears/00050568.obj
+dataset_org_norm/test/Right spur gears/00050694.obj
+dataset_org_norm/test/Right spur gears/00050744.obj
+dataset_org_norm/test/Right spur gears/00050590.obj
+dataset_org_norm/test/Right spur gears/00050793.obj
+dataset_org_norm/test/Right spur gears/00050786.obj
+dataset_org_norm/test/Lever/00047354.obj
+dataset_org_norm/test/Lever/00047486.obj
+dataset_org_norm/test/Lever/00047145.obj
+dataset_org_norm/test/Lever/00047416.obj
+dataset_org_norm/test/Lever/00047037.obj
+dataset_org_norm/test/Lever/00046652.obj
+dataset_org_norm/test/Lever/00047031.obj
+dataset_org_norm/test/Lever/00047577.obj
+dataset_org_norm/test/Lever/00046682.obj
+dataset_org_norm/test/Lever/00047484.obj
+dataset_org_norm/test/Lever/00046790.obj
+dataset_org_norm/test/Lever/00047332.obj
+dataset_org_norm/test/Lever/00046924.obj
+dataset_org_norm/test/Lever/00047668.obj
+dataset_org_norm/test/Lever/00047128.obj
+dataset_org_norm/test/Lever/00046904.obj
+dataset_org_norm/test/Lever/00047427.obj
+dataset_org_norm/test/Lever/00046807.obj
+dataset_org_norm/test/Lever/00046730.obj
+dataset_org_norm/test/Lever/00047348.obj
+dataset_org_norm/test/Lever/00046692.obj
+dataset_org_norm/test/Lever/00047109.obj
+dataset_org_norm/test/Lever/00047641.obj
+dataset_org_norm/test/Lever/00047123.obj
+dataset_org_norm/test/Lever/00046861.obj
+dataset_org_norm/test/Lever/00047351.obj
+dataset_org_norm/test/Lever/00046973.obj
+dataset_org_norm/test/Lever/00047576.obj
+dataset_org_norm/test/Lever/00047402.obj
+dataset_org_norm/test/Lever/00047026.obj
+dataset_org_norm/test/Lever/00047155.obj
+dataset_org_norm/test/Lever/00046678.obj
+dataset_org_norm/test/Lever/00047042.obj
+dataset_org_norm/test/Lever/00047334.obj
+dataset_org_norm/test/Lever/00047060.obj
+dataset_org_norm/test/Lever/00046911.obj
+dataset_org_norm/test/Lever/00046894.obj
+dataset_org_norm/test/Lever/00047352.obj
+dataset_org_norm/test/Lever/00047532.obj
+dataset_org_norm/test/Lever/00046917.obj
+dataset_org_norm/test/Lever/00047538.obj
+dataset_org_norm/test/Lever/00047053.obj
+dataset_org_norm/test/Lever/00047483.obj
+dataset_org_norm/test/Lever/00047096.obj
+dataset_org_norm/test/Lever/00046895.obj
+dataset_org_norm/test/Lever/00046740.obj
+dataset_org_norm/test/Lever/00047451.obj
+dataset_org_norm/test/Lever/00046760.obj
+dataset_org_norm/test/Lever/00047428.obj
+dataset_org_norm/test/Lever/00047654.obj
+dataset_org_norm/test/Lever/00046858.obj
+dataset_org_norm/test/Lever/00047169.obj
+dataset_org_norm/test/Lever/00046649.obj
+dataset_org_norm/test/Lever/00047045.obj
+dataset_org_norm/test/Lever/00047620.obj
+dataset_org_norm/test/Lever/00047095.obj
+dataset_org_norm/test/Lever/00047319.obj
+dataset_org_norm/test/Lever/00047141.obj
+dataset_org_norm/test/Lever/00047489.obj
+dataset_org_norm/test/Lever/00047529.obj
+dataset_org_norm/test/Lever/00047087.obj
+dataset_org_norm/test/Lever/00046903.obj
+dataset_org_norm/test/Lever/00046905.obj
+dataset_org_norm/test/Lever/00047183.obj
+dataset_org_norm/test/Lever/00047162.obj
+dataset_org_norm/test/Lever/00047639.obj
+dataset_org_norm/test/Lever/00046961.obj
+dataset_org_norm/test/Lever/00047121.obj
+dataset_org_norm/test/Lever/00047309.obj
+dataset_org_norm/test/Lever/00046673.obj
+dataset_org_norm/test/Lever/00046800.obj
+dataset_org_norm/test/Lever/00047105.obj
+dataset_org_norm/test/Lever/00047442.obj
+dataset_org_norm/test/Lever/00047059.obj
+dataset_org_norm/test/Lever/00047570.obj
+dataset_org_norm/test/Lever/00047236.obj
+dataset_org_norm/test/Lever/00046883.obj
+dataset_org_norm/test/Lever/00047565.obj
+dataset_org_norm/test/Lever/00047066.obj
+dataset_org_norm/test/Lever/00047341.obj
+dataset_org_norm/test/Lever/00047363.obj
+dataset_org_norm/test/Lever/00046732.obj
+dataset_org_norm/test/Lever/00047514.obj
+dataset_org_norm/test/Lever/00047401.obj
+dataset_org_norm/test/Lever/00047391.obj
+dataset_org_norm/test/Lever/00047298.obj
+dataset_org_norm/test/Lever/00047558.obj
+dataset_org_norm/test/Lever/00047125.obj
+dataset_org_norm/test/Lever/00047381.obj
+dataset_org_norm/test/Lever/00047379.obj
+dataset_org_norm/test/Lever/00047027.obj
+dataset_org_norm/test/Lever/00047093.obj
+dataset_org_norm/test/Lever/00047611.obj
+dataset_org_norm/test/Lever/00047112.obj
+dataset_org_norm/test/Lever/00047649.obj
+dataset_org_norm/test/Lever/00047413.obj
+dataset_org_norm/test/Lever/00047587.obj
+dataset_org_norm/test/Lever/00046757.obj
+dataset_org_norm/test/Lever/00047667.obj
+dataset_org_norm/test/Lever/00047528.obj
+dataset_org_norm/test/Toothed/00044593.obj
+dataset_org_norm/test/Toothed/00044595.obj
+dataset_org_norm/test/Toothed/00044574.obj
+dataset_org_norm/test/Toothed/00044554.obj
+dataset_org_norm/test/Toothed/00044578.obj
+dataset_org_norm/test/Toothed/00044588.obj
+dataset_org_norm/test/Toothed/00044555.obj
+dataset_org_norm/test/Toothed/00044553.obj
+dataset_org_norm/test/Toothed/00044582.obj
+dataset_org_norm/test/Switch/00036738.obj
+dataset_org_norm/test/Switch/00036763.obj
+dataset_org_norm/test/Switch/00036664.obj
+dataset_org_norm/test/Switch/00036680.obj
+dataset_org_norm/test/Switch/00036669.obj
+dataset_org_norm/test/Switch/00036742.obj
+dataset_org_norm/test/Switch/00036612.obj
+dataset_org_norm/test/Switch/00036608.obj
+dataset_org_norm/test/Switch/00036749.obj
+dataset_org_norm/test/Switch/00036672.obj
+dataset_org_norm/test/Switch/00036610.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012904.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013331.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013216.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012728.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012156.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012872.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013046.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012802.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013202.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013176.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012530.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012990.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012763.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013044.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012542.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012875.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012869.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013023.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012040.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013576.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013458.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012789.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012150.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013226.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012838.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013289.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012909.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012713.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012401.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013138.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012050.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013356.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012139.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013415.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012461.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013463.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012686.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012388.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012101.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012004.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012402.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012653.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012222.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012479.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012707.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012169.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013274.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013047.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012011.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013038.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013590.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012906.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013262.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012285.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013575.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012123.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012755.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013308.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012487.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013024.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012384.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013103.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013625.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013177.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012404.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013241.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012811.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012597.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012044.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013549.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012572.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013045.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012715.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013110.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013306.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012063.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013016.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012956.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013332.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013412.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012910.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013427.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012119.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013344.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012927.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012358.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012511.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012105.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013566.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012855.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012322.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012055.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012659.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013227.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013011.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012233.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013066.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00013285.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012891.obj
+dataset_org_norm/test/Articulations, eyelets and other articulated joints/00012476.obj
+dataset_org_norm/test/Cap nuts/00014504.obj
+dataset_org_norm/test/Cap nuts/00014547.obj
+dataset_org_norm/test/Cap nuts/00014513.obj
+dataset_org_norm/test/Cap nuts/00014562.obj
+dataset_org_norm/test/Cap nuts/00014530.obj
+dataset_org_norm/test/Cap nuts/00014566.obj
+dataset_org_norm/test/Cap nuts/00014645.obj
+dataset_org_norm/test/Cap nuts/00014710.obj
+dataset_org_norm/test/Cap nuts/00014634.obj
+dataset_org_norm/test/Cap nuts/00014711.obj
+dataset_org_norm/test/Cap nuts/00014642.obj
+dataset_org_norm/test/Cap nuts/00014554.obj
+dataset_org_norm/test/Cap nuts/00014643.obj
+dataset_org_norm/test/Cap nuts/00014695.obj
+dataset_org_norm/test/Cap nuts/00014503.obj
+dataset_org_norm/test/Cap nuts/00014630.obj
+dataset_org_norm/test/Cap nuts/00014603.obj
+dataset_org_norm/test/Cap nuts/00014590.obj
+dataset_org_norm/test/Cap nuts/00014591.obj
+dataset_org_norm/test/Cap nuts/00014619.obj
+dataset_org_norm/test/Cap nuts/00014592.obj
+dataset_org_norm/test/Cap nuts/00014650.obj
+dataset_org_norm/test/Cap nuts/00014606.obj
+dataset_org_norm/test/Cap nuts/00014538.obj
+dataset_org_norm/test/Cap nuts/00014609.obj
+dataset_org_norm/test/Cap nuts/00014703.obj
+dataset_org_norm/test/Cap nuts/00014599.obj
+dataset_org_norm/test/Cap nuts/00014679.obj
+dataset_org_norm/test/Cap nuts/00014637.obj
+dataset_org_norm/test/Cap nuts/00014616.obj
+dataset_org_norm/test/Cap nuts/00014567.obj
+dataset_org_norm/test/Cap nuts/00014563.obj
+dataset_org_norm/test/Cap nuts/00014535.obj
+dataset_org_norm/test/Cap nuts/00014641.obj
+dataset_org_norm/test/Cap nuts/00014671.obj
+dataset_org_norm/test/Cap nuts/00014665.obj
+dataset_org_norm/test/Cap nuts/00014551.obj
+dataset_org_norm/test/Cap nuts/00014552.obj
+dataset_org_norm/test/Cap nuts/00014522.obj
+dataset_org_norm/test/Cap nuts/00014659.obj
+dataset_org_norm/test/Cap nuts/00014636.obj
+dataset_org_norm/test/Cap nuts/00014621.obj
+dataset_org_norm/test/Washer bolt/00045421.obj
+dataset_org_norm/test/Washer bolt/00045676.obj
+dataset_org_norm/test/Washer bolt/00045277.obj
+dataset_org_norm/test/Washer bolt/00045504.obj
+dataset_org_norm/test/Washer bolt/00044929.obj
+dataset_org_norm/test/Washer bolt/00045363.obj
+dataset_org_norm/test/Washer bolt/00045156.obj
+dataset_org_norm/test/Washer bolt/00045265.obj
+dataset_org_norm/test/Washer bolt/00045125.obj
+dataset_org_norm/test/Washer bolt/00045006.obj
+dataset_org_norm/test/Washer bolt/00045063.obj
+dataset_org_norm/test/Washer bolt/00045581.obj
+dataset_org_norm/test/Washer bolt/00045649.obj
+dataset_org_norm/test/Washer bolt/00045312.obj
+dataset_org_norm/test/Washer bolt/00045342.obj
+dataset_org_norm/test/Washer bolt/00045294.obj
+dataset_org_norm/test/Washer bolt/00045184.obj
+dataset_org_norm/test/Washer bolt/00044894.obj
+dataset_org_norm/test/Washer bolt/00045408.obj
+dataset_org_norm/test/Washer bolt/00045118.obj
+dataset_org_norm/test/Washer bolt/00045055.obj
+dataset_org_norm/test/Washer bolt/00045531.obj
+dataset_org_norm/test/Washer bolt/00045500.obj
+dataset_org_norm/test/Washer bolt/00045592.obj
+dataset_org_norm/test/Washer bolt/00045115.obj
+dataset_org_norm/test/Washer bolt/00044924.obj
+dataset_org_norm/test/Washer bolt/00045357.obj
+dataset_org_norm/test/Washer bolt/00045376.obj
+dataset_org_norm/test/Washer bolt/00045083.obj
+dataset_org_norm/test/Washer bolt/00045235.obj
+dataset_org_norm/test/Washer bolt/00045563.obj
+dataset_org_norm/test/Washer bolt/00045352.obj
+dataset_org_norm/test/Washer bolt/00045241.obj
+dataset_org_norm/test/Washer bolt/00045158.obj
+dataset_org_norm/test/Washer bolt/00045551.obj
+dataset_org_norm/test/Washer bolt/00045518.obj
+dataset_org_norm/test/Washer bolt/00045316.obj
+dataset_org_norm/test/Washer bolt/00045070.obj
+dataset_org_norm/test/Washer bolt/00045674.obj
+dataset_org_norm/test/Washer bolt/00044925.obj
+dataset_org_norm/test/Washer bolt/00045250.obj
+dataset_org_norm/test/Washer bolt/00045170.obj
+dataset_org_norm/test/Washer bolt/00045507.obj
+dataset_org_norm/test/Washer bolt/00045364.obj
+dataset_org_norm/test/Washer bolt/00045494.obj
+dataset_org_norm/test/Washer bolt/00044889.obj
+dataset_org_norm/test/Washer bolt/00045114.obj
+dataset_org_norm/test/Washer bolt/00045097.obj
+dataset_org_norm/test/Washer bolt/00045227.obj
+dataset_org_norm/test/Washer bolt/00045143.obj
+dataset_org_norm/test/Washer bolt/00045219.obj
+dataset_org_norm/test/Washer bolt/00045293.obj
+dataset_org_norm/test/Washer bolt/00045380.obj
+dataset_org_norm/test/Washer bolt/00045370.obj
+dataset_org_norm/test/Washer bolt/00044900.obj
+dataset_org_norm/test/Washer bolt/00044972.obj
+dataset_org_norm/test/Washer bolt/00045024.obj
+dataset_org_norm/test/Washer bolt/00045587.obj
+dataset_org_norm/test/Washer bolt/00044860.obj
+dataset_org_norm/test/Washer bolt/00045119.obj
+dataset_org_norm/test/Washer bolt/00045023.obj
+dataset_org_norm/test/Washer bolt/00045117.obj
+dataset_org_norm/test/Washer bolt/00045395.obj
+dataset_org_norm/test/Washer bolt/00045340.obj
+dataset_org_norm/test/Washer bolt/00044927.obj
+dataset_org_norm/test/Washer bolt/00045615.obj
+dataset_org_norm/test/Washer bolt/00044971.obj
+dataset_org_norm/test/Washer bolt/00045638.obj
+dataset_org_norm/test/Washer bolt/00045248.obj
+dataset_org_norm/test/Washer bolt/00044801.obj
+dataset_org_norm/test/Washer bolt/00045016.obj
+dataset_org_norm/test/Washer bolt/00045275.obj
+dataset_org_norm/test/Washer bolt/00045583.obj
+dataset_org_norm/test/Washer bolt/00045350.obj
+dataset_org_norm/test/Washer bolt/00045094.obj
+dataset_org_norm/test/Washer bolt/00045123.obj
+dataset_org_norm/test/Washer bolt/00044901.obj
+dataset_org_norm/test/Washer bolt/00045238.obj
+dataset_org_norm/test/Washer bolt/00045659.obj
+dataset_org_norm/test/Washer bolt/00045307.obj
+dataset_org_norm/test/Washer bolt/00045415.obj
+dataset_org_norm/test/Washer bolt/00044835.obj
+dataset_org_norm/test/Washer bolt/00045069.obj
+dataset_org_norm/test/Washer bolt/00045461.obj
+dataset_org_norm/test/Washer bolt/00045167.obj
+dataset_org_norm/test/Washer bolt/00044809.obj
+dataset_org_norm/test/Washer bolt/00044868.obj
+dataset_org_norm/test/Washer bolt/00045626.obj
+dataset_org_norm/test/Washer bolt/00045245.obj
+dataset_org_norm/test/Washer bolt/00045297.obj
+dataset_org_norm/test/Washer bolt/00045209.obj
+dataset_org_norm/test/Washer bolt/00045597.obj
+dataset_org_norm/test/Washer bolt/00045423.obj
+dataset_org_norm/test/Washer bolt/00045079.obj
+dataset_org_norm/test/Washer bolt/00045257.obj
+dataset_org_norm/test/Washer bolt/00045326.obj
+dataset_org_norm/test/Washer bolt/00044826.obj
+dataset_org_norm/test/Washer bolt/00045018.obj
+dataset_org_norm/test/Washer bolt/00044995.obj
+dataset_org_norm/test/Washer bolt/00045553.obj
+dataset_org_norm/test/Flanged block bearing/00022965.obj
+dataset_org_norm/test/Flanged block bearing/00023038.obj
+dataset_org_norm/test/Flanged block bearing/00022995.obj
+dataset_org_norm/test/Flanged block bearing/00022985.obj
+dataset_org_norm/test/Flanged block bearing/00023090.obj
+dataset_org_norm/test/Flanged block bearing/00023326.obj
+dataset_org_norm/test/Flanged block bearing/00023070.obj
+dataset_org_norm/test/Flanged block bearing/00023036.obj
+dataset_org_norm/test/Flanged block bearing/00022956.obj
+dataset_org_norm/test/Flanged block bearing/00023078.obj
+dataset_org_norm/test/Flanged block bearing/00023018.obj
+dataset_org_norm/test/Flanged block bearing/00023208.obj
+dataset_org_norm/test/Flanged block bearing/00023179.obj
+dataset_org_norm/test/Flanged block bearing/00023019.obj
+dataset_org_norm/test/Flanged block bearing/00023075.obj
+dataset_org_norm/test/Flanged block bearing/00023144.obj
+dataset_org_norm/test/Flanged block bearing/00022971.obj
+dataset_org_norm/test/Flanged block bearing/00023262.obj
+dataset_org_norm/test/Flanged block bearing/00023187.obj
+dataset_org_norm/test/Flanged block bearing/00023194.obj
+dataset_org_norm/test/Flanged block bearing/00022958.obj
+dataset_org_norm/test/Flanged block bearing/00022999.obj
+dataset_org_norm/test/Flanged block bearing/00022938.obj
+dataset_org_norm/test/Flanged block bearing/00023311.obj
+dataset_org_norm/test/Flanged block bearing/00022979.obj
+dataset_org_norm/test/Flanged block bearing/00022937.obj
+dataset_org_norm/test/Flanged block bearing/00023041.obj
+dataset_org_norm/test/Flanged block bearing/00023022.obj
+dataset_org_norm/test/Flanged block bearing/00023249.obj
+dataset_org_norm/test/Flanged block bearing/00022952.obj
+dataset_org_norm/test/Flanged block bearing/00022983.obj
+dataset_org_norm/test/Flanged block bearing/00023232.obj
+dataset_org_norm/test/Flanged block bearing/00022946.obj
+dataset_org_norm/test/Flanged block bearing/00023270.obj
+dataset_org_norm/test/Flanged block bearing/00023273.obj
+dataset_org_norm/test/Flanged block bearing/00023133.obj
+dataset_org_norm/test/Flanged block bearing/00022962.obj
+dataset_org_norm/test/Flanged block bearing/00023080.obj
+dataset_org_norm/test/Flanged block bearing/00023115.obj
+dataset_org_norm/test/Flanged block bearing/00023034.obj
+dataset_org_norm/test/Flanged block bearing/00023024.obj
+dataset_org_norm/test/Flanged block bearing/00023330.obj
+dataset_org_norm/test/Flanged block bearing/00023279.obj
+dataset_org_norm/test/Flanged block bearing/00023108.obj
+dataset_org_norm/test/Flanged block bearing/00023065.obj
+dataset_org_norm/test/Flanged block bearing/00023000.obj
+dataset_org_norm/test/Flanged block bearing/00023172.obj
+dataset_org_norm/test/Flanged block bearing/00023229.obj
+dataset_org_norm/test/Flanged block bearing/00023216.obj
+dataset_org_norm/test/Flanged block bearing/00023163.obj
+dataset_org_norm/test/Flanged block bearing/00023079.obj
+dataset_org_norm/test/Flanged block bearing/00023091.obj
+dataset_org_norm/test/Flanged block bearing/00023331.obj
+dataset_org_norm/test/Flanged block bearing/00023202.obj
+dataset_org_norm/test/Flanged block bearing/00023142.obj
+dataset_org_norm/test/Flanged block bearing/00023186.obj
+dataset_org_norm/test/Flanged block bearing/00023219.obj
+dataset_org_norm/test/Flanged block bearing/00023161.obj
+dataset_org_norm/test/Flanged block bearing/00023049.obj
+dataset_org_norm/test/Flanged block bearing/00023263.obj
+dataset_org_norm/test/Flanged block bearing/00022955.obj
+dataset_org_norm/test/Flanged block bearing/00022969.obj
+dataset_org_norm/test/Flanged block bearing/00023087.obj
+dataset_org_norm/test/Flanged block bearing/00023328.obj
+dataset_org_norm/test/Flanged block bearing/00023185.obj
+dataset_org_norm/test/Flanged block bearing/00023264.obj
+dataset_org_norm/test/Eye screws/00021640.obj
+dataset_org_norm/test/Eye screws/00022480.obj
+dataset_org_norm/test/Eye screws/00022372.obj
+dataset_org_norm/test/Eye screws/00021684.obj
+dataset_org_norm/test/Eye screws/00021714.obj
+dataset_org_norm/test/Eye screws/00022564.obj
+dataset_org_norm/test/Eye screws/00022320.obj
+dataset_org_norm/test/Eye screws/00021537.obj
+dataset_org_norm/test/Eye screws/00022151.obj
+dataset_org_norm/test/Eye screws/00021573.obj
+dataset_org_norm/test/Eye screws/00022390.obj
+dataset_org_norm/test/Eye screws/00021770.obj
+dataset_org_norm/test/Eye screws/00022035.obj
+dataset_org_norm/test/Eye screws/00022029.obj
+dataset_org_norm/test/Eye screws/00021578.obj
+dataset_org_norm/test/Eye screws/00021902.obj
+dataset_org_norm/test/Eye screws/00022374.obj
+dataset_org_norm/test/Eye screws/00022487.obj
+dataset_org_norm/test/Eye screws/00022318.obj
+dataset_org_norm/test/Eye screws/00022266.obj
+dataset_org_norm/test/Eye screws/00022170.obj
+dataset_org_norm/test/Eye screws/00021931.obj
+dataset_org_norm/test/Eye screws/00021564.obj
+dataset_org_norm/test/Eye screws/00022305.obj
+dataset_org_norm/test/Eye screws/00022404.obj
+dataset_org_norm/test/Eye screws/00022079.obj
+dataset_org_norm/test/Eye screws/00022650.obj
+dataset_org_norm/test/Eye screws/00021965.obj
+dataset_org_norm/test/Eye screws/00022215.obj
+dataset_org_norm/test/Eye screws/00022260.obj
+dataset_org_norm/test/Eye screws/00022567.obj
+dataset_org_norm/test/Eye screws/00021973.obj
+dataset_org_norm/test/Eye screws/00021978.obj
+dataset_org_norm/test/Eye screws/00021670.obj
+dataset_org_norm/test/Eye screws/00021586.obj
+dataset_org_norm/test/Eye screws/00021900.obj
+dataset_org_norm/test/Eye screws/00022417.obj
+dataset_org_norm/test/Eye screws/00021548.obj
+dataset_org_norm/test/Eye screws/00021662.obj
+dataset_org_norm/test/Eye screws/00021838.obj
+dataset_org_norm/test/Eye screws/00021539.obj
+dataset_org_norm/test/Eye screws/00021587.obj
+dataset_org_norm/test/Eye screws/00022016.obj
+dataset_org_norm/test/Eye screws/00021721.obj
+dataset_org_norm/test/Eye screws/00021924.obj
+dataset_org_norm/test/Eye screws/00021720.obj
+dataset_org_norm/test/Eye screws/00022619.obj
+dataset_org_norm/test/Eye screws/00022565.obj
+dataset_org_norm/test/Eye screws/00021624.obj
+dataset_org_norm/test/Eye screws/00022259.obj
+dataset_org_norm/test/Eye screws/00022193.obj
+dataset_org_norm/test/Eye screws/00021914.obj
+dataset_org_norm/test/Eye screws/00022462.obj
+dataset_org_norm/test/Eye screws/00022337.obj
+dataset_org_norm/test/Eye screws/00022618.obj
+dataset_org_norm/test/Eye screws/00022154.obj
+dataset_org_norm/test/Eye screws/00022575.obj
+dataset_org_norm/test/Eye screws/00022221.obj
+dataset_org_norm/test/Eye screws/00022175.obj
+dataset_org_norm/test/Eye screws/00021976.obj
+dataset_org_norm/test/Eye screws/00022313.obj
+dataset_org_norm/test/Eye screws/00022146.obj
+dataset_org_norm/test/Eye screws/00022083.obj
+dataset_org_norm/test/Eye screws/00021989.obj
+dataset_org_norm/test/Eye screws/00021655.obj
+dataset_org_norm/test/Eye screws/00022329.obj
+dataset_org_norm/test/Eye screws/00021942.obj
+dataset_org_norm/test/Eye screws/00021690.obj
+dataset_org_norm/test/Eye screws/00022087.obj
+dataset_org_norm/test/Eye screws/00021643.obj
+dataset_org_norm/test/Eye screws/00022388.obj
+dataset_org_norm/test/Eye screws/00022190.obj
+dataset_org_norm/test/Eye screws/00022235.obj
+dataset_org_norm/test/Eye screws/00021855.obj
+dataset_org_norm/test/Eye screws/00022403.obj
+dataset_org_norm/test/Eye screws/00022370.obj
+dataset_org_norm/test/Eye screws/00021762.obj
+dataset_org_norm/test/Eye screws/00021974.obj
+dataset_org_norm/test/Eye screws/00022384.obj
+dataset_org_norm/test/Eye screws/00022476.obj
+dataset_org_norm/test/Eye screws/00022338.obj
+dataset_org_norm/test/Eye screws/00022245.obj
+dataset_org_norm/test/Eye screws/00021829.obj
+dataset_org_norm/test/Eye screws/00021997.obj
+dataset_org_norm/test/Eye screws/00021542.obj
+dataset_org_norm/test/Eye screws/00022653.obj
+dataset_org_norm/test/Eye screws/00021606.obj
+dataset_org_norm/test/Eye screws/00022023.obj
+dataset_org_norm/test/Eye screws/00021718.obj
+dataset_org_norm/test/Eye screws/00022385.obj
+dataset_org_norm/test/Eye screws/00021625.obj
+dataset_org_norm/test/Eye screws/00021763.obj
+dataset_org_norm/test/Eye screws/00022623.obj
+dataset_org_norm/test/Eye screws/00022002.obj
+dataset_org_norm/test/Eye screws/00021610.obj
+dataset_org_norm/test/Eye screws/00021623.obj
+dataset_org_norm/test/Eye screws/00022357.obj
+dataset_org_norm/test/Eye screws/00021812.obj
+dataset_org_norm/test/Eye screws/00021699.obj
+dataset_org_norm/test/Eye screws/00021963.obj
+dataset_org_norm/test/Fan/00022729.obj
+dataset_org_norm/test/Fan/00022718.obj
+dataset_org_norm/test/Fan/00022847.obj
+dataset_org_norm/test/Fan/00022692.obj
+dataset_org_norm/test/Fan/00022794.obj
+dataset_org_norm/test/Fan/00022765.obj
+dataset_org_norm/test/Slotted nuts/00029149.obj
+dataset_org_norm/test/Slotted nuts/00029123.obj
+dataset_org_norm/test/Slotted nuts/00029137.obj
+dataset_org_norm/test/Slotted nuts/00029133.obj
+dataset_org_norm/test/Slotted nuts/00029188.obj
+dataset_org_norm/test/Slotted nuts/00029129.obj
+dataset_org_norm/test/Slotted nuts/00029157.obj
+dataset_org_norm/test/Slotted nuts/00029144.obj
+dataset_org_norm/test/Slotted nuts/00029118.obj
+dataset_org_norm/test/Slotted nuts/00029140.obj
+dataset_org_norm/test/Slotted nuts/00029136.obj
+dataset_org_norm/test/Slotted nuts/00029174.obj
+dataset_org_norm/test/Slotted nuts/00029165.obj
