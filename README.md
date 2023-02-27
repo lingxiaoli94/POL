@@ -1,6 +1,6 @@
 # Learning Proximal Operators to Discover Multiple Optima
 
-This repository contains the Source code for the ICLR 2023 paper ([link](https://arxiv.org/abs/2201.11945)) "Learning Proximal Operators to Discover Multiple Optima" by Lingxiao Li, Noam Aigerman, Vladimir G. Kim, Jiajin Li, Kristjan Greenewald, Mikhail Yurochkin, Justin Solomon.
+This repository contains the source code for the ICLR 2023 paper ([link](https://arxiv.org/abs/2201.11945)) "Learning Proximal Operators to Discover Multiple Optima" by Lingxiao Li, Noam Aigerman, Vladimir G. Kim, Jiajin Li, Kristjan Greenewald, Mikhail Yurochkin, Justin Solomon.
 
 ## Dependencies
 
